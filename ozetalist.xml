@@ -1,11 +1,11 @@
 
 <channels>
  
-  <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
-</item>
+<channel>
+<name>Total Play</name>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/iyxmuxj.jpg</thumbnail>
+<items>
  
  
 <channel>
