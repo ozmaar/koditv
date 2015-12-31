@@ -6355,6 +6355,19 @@
 <info></info>
 </item>
 
+<channel>
+<name>Karaoke</name>
+<fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
+<thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail>
+<items>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Karaoke Variado    [/COLOR] [COLOR darkwhite] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail><fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/screamfacetv/Screamface-TV/master/karaoke</externallink>
+</item>
+
 
 </channel>
  
