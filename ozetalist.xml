@@ -1,6 +1,12 @@
 
 <channels>
  
+ <channel>
+<name>Deportes</name>
+<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
+<thumbnail>http://i.imgur.com/uMPnH2k.jpg</thumbnail>
+<items>
+ 
 <channel>
 <name>Listas Adrian</name>
 <fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
