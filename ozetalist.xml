@@ -1,6 +1,12 @@
 
 <channels>
  
+ <channel>
+<name>Total Play 1080</name>
+<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
+<thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail>
+<items>
+ 
 <channel>
 <name>Deportes</name>
 <fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
