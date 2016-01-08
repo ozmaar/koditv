@@ -96,11 +96,116 @@
 <externallink>http://adrian.kodistream.info/adryan/tv.xml</externallink>
 </item>
  
+
+<channels>
+ 
+  
+ 
+ 
 <channel>
 <name>Estrenos</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/iyxmuxj.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/eesWlxo.jpg</thumbnail>
 <items>
+
+<item>
+<title>Letras Explicitas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-opcvd2k0zo5j-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/fdDTA06o5e7MRXnTGAf4EygL2MJ.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/5LmdnQJHU5EPmbNqNaULbhIIz7X.jpg</thumbnail>
+<info>A mediados de los 80, el barrio californiano de Compton era uno de los lugares m�s peligrosos de Estados Unidos. Cuando un grupo de j�venes convirtieron sus experiencias vitales en una m�sica brutalmente sincera que se rebelaba contra la autoridad, le dieron voz a una generaci�n silenciada. Siguiendo la mete�rica trayectoria de N.W.A. (formado por Arabian Prince, DJ Yella, Dr. Dre, Eazy-E, Ice Cube y MC Ren), la pel�cula narra la historia de c�mo estos chicos revolucionaron para siempre la m�sica y la cultura popular al contar al mundo c�mo era realmente la vida en el ghetto.</info>
+</item>
+
+<item>
+<title>Woodlawn</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-0n1w48jvl0ea-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/urJgrO6gU1WRGgmsT7z6ALpzoJ4.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/1W7DAA7lYHISyVkq2KbAz0zMG4H.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Captive</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-bc1yyh01ycmw-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/mlFuPxdzi6B3mZHnkZVq3YTg1rS.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/kUBbcWqzKESsiWTZ4sobpQsQwOk.jpg</thumbnail>
+<info>Ashley Smith, una joven madre soltera que se est� recuperando de su adicci�n a las drogas, es secuestrada en su propia casa por un hombre de color que huye de la justicia tras haber matado al juez asignado a su caso.</info>
+</item>
+
+<item>
+<title>Luz Nocturna</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-icnv9i2ar2qv-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/chtJnwrlXjtYU6YL7n8HLJBPW29.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/pWS9lr5eSEuk9dZJguY9QjnzkQc.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Burnt</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-5n86kptbesmc-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/oYgYCnCc9e8C8pofu2TD1Z876vv.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/nF7OxU8DyzmIy5jH6w26Jmavofh.jpg</thumbnail>
+<info>Tras perder el prestigio por culpa de su car�cter y sus problemas personales, el chef Adam Jones (Bradley Cooper), pasado un tiempo, abre con su antiguo equipo un nuevo restaurante con el objetivo de alcanzar la perfecci�n y conseguir las tres estrellas michelin.</info>
+</item>
+
+<item>
+<title>Hijo del Crimen</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8recdgg820pt-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/7UWPr9LUq3GizuZDG3e6PvSlvck.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/xb4YXFkpT6lu1t5mO5qdqJp1mrg.jpg</thumbnail>
+<info>Encerrado por un delito menor, el joven JR (Brenton Thwaites) aprende r�pidamente las dureza de la vida en prisi�n, y que para sobrevivir dentro hay que buscar protecci�n. Pronto se encontrar� bajo la mirada del criminal m�s famoso de Australia, Brendan Lynch (Ewan McGregor), pero ese amparo tiene un precio. Lynch y su equipo tienen planes para su joven protegido: tras salir JR en libertad, deber� ayudar a Lynch con su plan de fuga.</info>
+</item>
+
+<item>
+<title>El Lado Peligroso del Deseo</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-4vgmjaq4x0do-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/A1kVYDMzZY1KpKO2AuoSQoStyQs.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/bt4yNEfABPZracOhMVeBNl4to4M.jpg</thumbnail>
+<info>La pel�cula se centra en Evan Webber, con una hermosa esposa, dos hijos maravillosos y viviendo en la casa que �l mismo dise��. Las cosas le van muy bien, tanto que no le importa pasar el D�a del Padre solo mientras el resto de la familia pasa el fin de semana en la playa. Cuando llaman a la puerta.
+ Dos chicas j�venes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de Death Game (Las s�dicas), dirigida por Peter S. Traynor en 1977.</info>
+</item>
 
 <item>
 <title>Boruto</title>
@@ -458,7 +563,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-7y5o2fwf40ce-740x360.html</page>
+<page>http://streamin.to/embed-rath2nxtdxk2-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/aFjAdtVAfDd9jYKMid2rCWQYfmD.jpg</fanart>
@@ -542,7 +647,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-sx7i1ogy2zvi-740x360.html</page>
+<page>http://streamin.to/embed-4qoz92eralwk-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/qHnLyWd41ekeVoItR7BxV4Vs6Tl.jpg</fanart>
@@ -944,7 +1049,6 @@
 <info>]Gabriel est� separado hace cuatro a�os. Desde entonces Sof�a, su hija de ocho a�os, es el centro de su vida. Negado de plano a intentar una nueva relaci�n amorosa, Gabriel vuelca toda su energ�a en su hija y en su trabajo. El idilio padre-hija se ve conmocionado por la aparici�n de Vicky, amor plat�nico de la adolescencia, transformada ahora en una mujer hermosa, independiente y desenfadada.  Ante la inminencia del romance, ella pone una condici�n: no se involucrar�a por nada del mundo con un hombre con hijos. A partir de ese momento, su vida se transforma en un tormento de maniobras y ocultamientos: ante cada cita con Vicky.</info>
 </item>
 
-
 <item>
 <title>Coche Policia</title>
 <link>$doregex[id]</link>
@@ -993,7 +1097,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-e2aoetvrgmfx-740x360.html</page>
+<page>http://streamin.to/embed-tuz1gb5c4y4b-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/lBIU50ihAcSJtxrayTv1CmyP7r0.jpg</fanart>
@@ -1070,7 +1174,6 @@
 <thumbnail>https://image.tmdb.org/t/p/w500/9NcyoYvVsAuAr3nMDYubPkSeZeE.jpg</thumbnail> 
 <info>Basada en la novela hom�nima de Gillian Flynn , sigue el d�a a d�a de Libby , una mujer de 33 a�os, �nica sobreviviente de una masacre de la que fue testigo cuando ten�a ocho a�os, y que provoc� la muerte de su madre y hermanas. La tragedia ocurri� en un pueblo agr�cola en Kansas, un lugar en el que prevaleci� la idea de que los asesinatos fueron parte de un culto sat�nico.</info>
 </item>
-
 
 <item>
 <title>Exorcismo en el Vaticano</title>
@@ -1178,8 +1281,8 @@
 
 <channel>
 <name>HD</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/1q1Jrp3.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/H5ohAQf.jpg</thumbnail>
 <items>
 
 <item>
@@ -1230,7 +1333,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-gx2n0kfbtaqp-740x360.html</page>
+<page>http://streamin.to/embed-6fxskudqa3rn-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/kG5Zn9z20L2O7Jo2Y2jykOMh60v.jpg</fanart>
@@ -1351,6 +1454,34 @@
 </item>
 
 <item>
+<title>Golpe de Estado</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-awpr9fja22f9-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/sMuPoR2lVnsPELvLKpqvkNWHcRT.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/ytHBqoNEC7gnOgFSYgEyAXoO7J8.jpg</thumbnail> 
+<info></info>
+</item>
+
+<item>
+<title>Mision Imposible: Nacion Secreta</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-bbpq7fsgnxrw-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/vZMSji6u1Kfg5TcWWi4IAzfqXfC.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/z2sJd1OvAGZLxgjBdSnQoLCfn3M.jpg</thumbnail> 
+<info></info>
+</item>
+
+<item>
 <title>Terremoto: La Falla de San Andres</title>
 <link>$doregex[id]</link>
 <regex>
@@ -1371,9 +1502,37 @@
  
 <channel>
 <name>Accion</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/NKTps4b.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/Ys1PslG.jpg</thumbnail>
 <items>
+
+<item>
+<title>300</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8meocv8j01w0-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/oHOTQkTYgDuoCYMaBEzuB9DqguX.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/7z7U2gSs24iy15bxNvj6AIJZXJh.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>300: El Origen de un Imperio</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-lcyxia8wex8t-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/3C4o2ozlFAfCgx5T0mC1XKHoeUM.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/pYRuy2M7UyptDuLrCL3Q04SEXhI.jpg</thumbnail>
+<info></info>
+</item>
 
 <item>
 <title>American  Me</title>
@@ -1390,6 +1549,20 @@
 </item>
 
 <item>
+<title>Aprendiz de Brujo</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8be8ilxd3kuq-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/v0o9M1us65w1kDQp8Q6KnB5a11s.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/gAg1F4gM8vI0gx4soP2Dh6Cpc8z.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Area 51</title>
 <link>$doregex[id]</link>
 <regex>
@@ -1400,6 +1573,20 @@
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/w6EDSylQHjRP9eIfIlx4b28PZvg.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/3KNPUjuBcVAMbSL3eCL60bko9Xa.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Automata</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-16adtjhidot5-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/281QVUuSYKBgtdxmr5iAM7YDUZw.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/Hq0Z02mcy88AcePmuJqtLLsv7.jpg</thumbnail>
 <info></info>
 </item>
 
@@ -1479,7 +1666,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-htpnlzohgk88-740x360.html</page>
+<page>http://streamin.to/embed-aexqsansvggq-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/65JWXDCAfwHhJKnDwRnEgVB411X.jpg</fanart>
@@ -1493,7 +1680,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-x9k800320n0t-740x360.html</page>
+<page>http://streamin.to/embed-6sa5jlnxf0pp-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/nnMC0BM6XbjIIrT4miYmMtPGcQV.jpg</fanart>
@@ -1628,7 +1815,7 @@
 </item> 
 
 <item>
-<title>Dos Policias Rebeldes</title>
+<title>Dos Policias Rebeldes 2</title>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -1638,6 +1825,20 @@
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/5xQVApmdUbBlCi1QzS8NwbCF0Ne.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/zZfgBNCovjAp2TU1BL3FyPKjKSq.jpg</thumbnail>
+<info></info>
+</item> 
+
+<item>
+<title>Dracula</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-riv2hqbcpc21-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/6UPlIYKxZqUR6Xbpgu1JKG0J7UC.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/45CH2aFnWb1yaE4MrpMIxXSID10.jpg</thumbnail>
 <info></info>
 </item> 
 
@@ -1948,7 +2149,6 @@
 <thumbnail>https://image.tmdb.org/t/p/w500/wjLSWXJMgpWkiHR2QALyftugCQ.jpg</thumbnail>
 <info></info>
 </item>
-
 
 <item>
 <title>Francotirador Americano</title>
@@ -3014,6 +3214,20 @@
 </item>
 
 <item>
+<title>Robocop</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-xfybn0e5ewkp-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/zkBSu5jNI9YrAGvvy8cAAc7BZX5.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/7afwTQGFmr0E2GsRJRG6rX6AJJG.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Sherlock Holmes</title>
 <link>$doregex[id]</link>
 <regex>
@@ -3066,6 +3280,20 @@
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/khzRw7ZDE3NIrYpe0RYyB864FPT.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/k80qKrJ0qQ6ocVo5N932stNSg6j.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Sin Escalas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8q3isbjhmda7-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/2pcByp1prR7w6KWvnukIsdXdIwS.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/oruRcy4ffDHfHmwcDhS3FDmMLgY.jpg</thumbnail>
 <info></info>
 </item>
 
@@ -3322,6 +3550,20 @@
 </item>
 
 <item>
+<title>Terminator Genesys</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-muag4joh956h-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/bIlYH4l2AyYvEysmS2AOfjO7Dn8.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/eDmm19Wz4l3gN6ZtFJTuV3twDNS.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Thor</title>
 <link>$doregex[id]</link>
 <regex>
@@ -3346,6 +3588,20 @@
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/3FweBee0xZoY77uO1bhUOlQorNH.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/yh0dUn6XCcHykybj6Im0VOPKx58.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Tortugas Ninjas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-r6ujfib5ddfx-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/OqCXGt5nl1cHPeotxCDvXLLe6p.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/b4viatllB7zFnEWnv2BOVRlUJ5u.jpg</thumbnail>
 <info></info>
 </item>
 
@@ -3504,6 +3760,48 @@
 </item>
 
 <item>
+<title>Volver al Futuro</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-wsh0qpahj26l-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/x4N74cycZvKu5k3KDERJay4ajR3.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/9CYWEV0SzZ3W0F8QCALlTgyTjHD.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Volver al Futuro 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-on9rz5chbu5w-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/snLFUFzWUZCdYkAbhZlaGJxiY3I.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/tbeSxSqJGM9dfoaOakgHPZ27waQ.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Volver al Futuro 3</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-is9htegf1e9u-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/pP2a4MBQbIeZMbErBWMjxTT5Npb.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/qi6ztG5EbhtRokOALYMeDSEr7uB.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Xmen</title>
 <link>$doregex[id]</link>
 <regex>
@@ -3579,7 +3877,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-29i1yznv8uw3-740x360.html</page>
+<page>http://streamin.to/embed-20mnane4pbao-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/oFyaTmJ5ZPPl16uB4Ry9pWKvtDc.jpg</fanart>
@@ -3593,11 +3891,25 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-ihxsno5nfurf-740x360.html</page>
+<page>http://streamin.to/embed-swzg9jyjqssw-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/ai9UKd8KownQKGIh1m5p3DuEeMm.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/pNrIFKNFij76RmDglSeBQIACZvd.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Yo, Frankenstein</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-jz9pbrmxmxtz-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/rzzabQ2HNUDil53Zfueu0iyasgB.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/53EG5vZXQsxtNaSIWNWMEqzefCm.jpg</thumbnail>
 <info></info>
 </item>
 
@@ -3611,8 +3923,8 @@
  
 <channel>
 <name>Infantiles</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/aHftSLS.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/ELD0igU.jpg</thumbnail>
 <items>
  
 <item>
@@ -3747,7 +4059,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-6buec2ujxa10-740x360.html</page>
+<page>http://streamin.to/embed-jms010ndk5ag-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/jUe7RbnkLXGYC9MPhdN9cruy4L0.jpg</fanart>
@@ -3934,6 +4246,20 @@
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/j98rDMOFD7iWdFV4JMFinq3UMj2.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/w6vPLqaW3EMHyS4Q6YOu8kn9GbC.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>El Gato con Botas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-4vvcobma2yt3-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/iiufWukqR2QBfYIfP7OEdLHrYXB.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/qYoxNT5JLYj6T7CcH5x9CgMyHrA.jpg</thumbnail>
 <info></info>
 </item>
 
@@ -4181,7 +4507,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-vm06ka6rbczd-740x360.html</page>
+<page>http://streamin.to/embed-zooj965li8hs-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/eyiE1vuizMKVu8MoZkg2xsramFl.jpg</fanart>
@@ -4195,7 +4521,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-4yxax4bi5iln-740x360.html</page>
+<page>http://streamin.to/embed-alpbqholqxqy-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/oDqbewoFuIEWA7UWurole6MzDGn.jpg</fanart>
@@ -4209,7 +4535,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-b8q50rjtczsz-740x360.html</page>
+<page>http://streamin.to/embed-z4x5wqbe7fmm-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/lxNCa4FifUuLeUkWUQl2yuf9JnJ.jpg</fanart>
@@ -4223,7 +4549,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-355y76127dyo-740x360.html</page>
+<page>http://streamin.to/embed-pelei1q6194t-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/pl3uTbPbb74yHAw7qXVFGOMJisK.jpg</fanart>
@@ -4237,7 +4563,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-qiaws68ostz9-740x360.html</page>
+<page>http://streamin.to/embed-jl5mesuhwfwy-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/tZGKKeWGejt63jiSdi7MTAjCFE9.jpg</fanart>
@@ -4316,6 +4642,20 @@
 </item>
 
 <item>
+<title>Lego: La Gran Aventura</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-pad66dl8qehe-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/wPRiV4TVpRCV2es81q0S1eRaUbm.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/hQ66pMhUGHZSChDobQdfbFBduEj.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Lluvia de Hamburguesas</title>
 <link>$doregex[id]</link>
 <regex>
@@ -4377,7 +4717,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-nhtgh35i56h4-740x360.html</page>
+<page>http://streamin.to/embed-adnpcqdz14w9-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/ynJ5OrFg4mbNnre8augsrbCXXQE.jpg</fanart>
@@ -4405,7 +4745,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-vqvehr8v7uei-740x360.html</page>
+<page>http://streamin.to/embed-a5udbny8nh17-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/wUetiqu2EFhHW94yTP0pWABfyUG.jpg</fanart>
@@ -4433,7 +4773,7 @@
 <regex>
 <name>id</name>
 <expres>file:'(.*)'</expres>
-<page>http://streamin.to/embed-fbl8pwaq3jn5-740x360.html</page>
+<page>http://streamin.to/embed-h56qvyz6ss6v-740x360.html</page>
 <referer>http://streamin.to</referer>
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/uHnLhm4AybDCbz6sAVkxZKNNXV3.jpg</fanart>
@@ -4845,8 +5185,8 @@
  
 <channel>
 <name>Comedia</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/plSExxU.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/hI5GMK7.jpg</thumbnail>
 <items>
 
 <item>
@@ -5228,6 +5568,34 @@
 </item>
 
 <item>
+<title>Magic Mike</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-eq3o13tqdlkv-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/uaHEBPugW19sneaJNNeuOtZiSxB.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/lEtUcdnGdtZzMUUMdrVVmJNIl6T.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Magic Mike XXL</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-qzhrzq7ocee4-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/lTI11m3VX9dy7uCaiTL8rdVvPxv.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/x9lv9umJ02AFuhPCTO5SL43Z5cP.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Mas Barato Por Docena</title>
 <link>$doregex[id]</link>
 <regex>
@@ -5340,6 +5708,34 @@
 </item>
 
 <item>
+<title>Todo Poderoso</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-kq86st4cmq2x-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/wH8vtnsmU4olFJ5wSRHo8RXRhKF.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uSobFjT1p5FJkfUdly2M1eIXmjC.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Todo Poderoso 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-554s1tlzj2yn-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/cKVcHq9qdctpY8v9XMmqcwuG2Jn.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/zkK9xGeARkS6o1mofKnVUgbpJQz.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
 <title>Y De Repente Tu</title>
 <link>$doregex[id]</link>
 <regex>
@@ -5363,8 +5759,8 @@
  
 <channel>
 <name>Romance</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/aUigfWr.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/IQTiVrZ.jpg</thumbnail>
 <items>
 
 <item>
@@ -5629,8 +6025,8 @@
  
 <channel>
 <name>Terror</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/t1eFqFW.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/sgNk7El.jpg</thumbnail>
 <items>
 
 <item>
@@ -5843,6 +6239,20 @@
 </regex>
 <fanart>https://image.tmdb.org/t/p/original/tidW5tNNP99fIxbG3slm5ZnjYEq.jpg</fanart>
 <thumbnail>https://image.tmdb.org/t/p/w500/hLb8tW9rswNl2xauwni1XgrR9SB.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>El Conjuro</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-fc299xbj8pac-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/C9Fiv2lZOuQEWWuXB8C0LVZapC.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/opKxoICmroU1qFKtxwMZwQY9mA2.jpg</thumbnail>
 <info></info>
 </item>
 
@@ -6344,9 +6754,9 @@
 -->
  
 <channel>
-<name>Mexas</name>
-<fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<thumbnail>http://i.imgur.com/m4NjmIb.jpg</thumbnail>
+<name>Mexicanas</name>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/03/20/303417/big_thumb_954589a4595622c939e02c35e3232188.jpg</fanart>
+<thumbnail>http://i.imgur.com/dNcD9Um.jpg</thumbnail>
 <items>
 
 <item>
@@ -6418,6 +6828,16 @@
 <thumbnail>https://image.tmdb.org/t/p/w500/3DGaP0ZC7Fd5K8mx4NiZHf5hWrK.jpg</thumbnail>
 <info></info>
 </item>
+
+
+</channel>
+ 
+<!--
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+-->
+
+
+
 
 <channel>
 <name>Karaoke</name>
