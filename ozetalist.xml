@@ -129,12 +129,62 @@
  
   
  
+
  
 <channel>
 <name>Estrenos</name>
 <fanart>http://i.imgur.com/iyxmuxj.jpg</fanart>
 <thumbnail>http://i.imgur.com/iyxmuxj.jpg</thumbnail>
 <items>
+ 
+ <item>
+<title>Por Mis Bigotes</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-vmvrugazv02a-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w500/jJfZQIuNBtpMOdIctgyTiwM1pVb.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>El Puente de los Espias</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-28328vpktopg-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/bTgqCfMeBgmkcZr2Zw7xO8WlhzK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/qzEv4nkZdp1nAfril4KR0tDMyro.jpg</thumbnail>
+<info>D>
+<page>http://streamin.to/embed-ctl19dvhnluo-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/aVcpJiLFpvPkoHgE54R4FaI40If.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uwACQiii7vIy93d8cUmg5bmq9SQ.jpg</thumbnail>
+<info>Es el fin del mundo . Un diluvio llega. Por suerte para Dave y su hijo Finny, un par de torpes Nestrians, se ha construido  un Arca para salvar a todos los animales. Pero resulta que no se admiten Nestrians. Furtivamente a bordo con la ayuda involuntaria de Hazel y su hija Leah , dos Grymps , creen que estue a una familia hasta llevarlos a la locura. Ahora, el hombre sin rostro les perseguirRee9Zqte.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Control Total</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-wkyyna44eozy-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/3htQsZfX1cbtevy7osGJDZVOQfE.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/zpLdH6lEL7dr12UxatLrthOv4Ll.jpg</thumbnail>
+<info></info>
+</item> 
+
 
 <item>
 <title>Letras Explicitas</title>
