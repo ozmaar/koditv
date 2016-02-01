@@ -136,7 +136,7 @@
 <thumbnail>http://i.imgur.com/iyxmuxj.jpg</thumbnail>
 <items>
 
-item>
+<item>
 <title>La Superficie</title>
 <link>$doregex[id]</link>
 <regex>
