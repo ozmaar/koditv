@@ -4,13 +4,7 @@
 <thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail>
 <items>
  
- <item>
-<title>[COLOR lime]  •[/COLOR][COLOR red] Peliculas Genesis [Ingles] [/COLOR]</title>
-<link>http://ignorame</link>
-<jsonrpc>plugin.video.genesis?action=movieNavigator</jsonrpc>
-<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
-<fanart>http://www.wirefresh.com/wp-content/uploads/2012/02/knowhow-movie-streaming-uk-1.jpg</fanart>
-</item>
+ 
 
  <item>
 <title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Series de TV[/B] [/COLOR]</title>
@@ -23,7 +17,7 @@
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]pelis3[/B] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/Dukman/Test/87f2f2d8cc45f7b9a6242ff3a193206cc0500594/my_playlist.xml</externallink>
+<externallink>https://dl.dropboxusercontent.com/u/81390039/deadpool/peliculas/latino/generos/720.m3u</externallink>
 </item>
 
 <channel>
