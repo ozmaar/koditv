@@ -11,12 +11,12 @@
 </item>
 
 <channel>
-<name>SEÑOR </name>
+<name>Genesis </name>
 <fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
 <thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail>
 <items>
  
- <item>
+<item>
 <title>[COLOR lime]  •[/COLOR][COLOR red] Peliculas Genesis [Ingles] [/COLOR]</title>
 <link>http://ignorame</link>
 <jsonrpc>plugin.video.genesis?action=movieNavigator</jsonrpc>
