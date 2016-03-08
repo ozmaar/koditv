@@ -139,6 +139,47 @@
 <fanart>http://i.imgur.com/iyxmuxj.jpg</fanart>
 <thumbnail>http://i.imgur.com/iyxmuxj.jpg</thumbnail>
 <items>
+<item>
+<title>Spotlight</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-nxfumpj3qy8o-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/t3Oea7KbSpOvuqddMnlFtZ4WHn.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg</thumbnail>
+<info>Narra cómo un equipo de reporteros del Boston Globe destapó los escándalos de pederastia cometidos durante décadas por unos curas de Massachussets, acusaciones que la archidiócesis de Boston intentó ocultar y que sacudió a la Iglesia Católica en su conjunto.</info>
+</item>
+
+<item>
+<title>Victor Frankenstein</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-3cdhtolyvi9b-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/AsNosq3JX6YfWy7HXmHnJjV7Fsw.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/FDcYYHd6IlKj2ZitO9ASE4GlKa.jpg</thumbnail>
+<info>En los ambiciosos planes del doctor para devolver la vida a un cuerpo inerte a través de la ciencia, Igor (Daniel Radcliffe, &#x27;Harry Potter y las reliquias de la muerte: Parte 2&#x27;) será una parte esencial para cumplir su objetivo. Narrada desde el punto de vista distorsionado y cómico del auxiliar de experimentos, la película revivirá los sucesos que llevaron al genio de la medicina a jugar a ser Dios. Desenterrar cadáveres, asistirle en la cirugía post mortem o acompañarle a robar miembros por la noche, serán algunas de las oscuras misiones de este peculiar y único personaje. Este torpe y sucio compañero de fechorías será el centro de un mundo terrorífico a la vez que conmovedor sobre el poder de la ciencia y la imaginación humana.</info>
+</item>
+
+<item>
+<title>La Chica Danesa</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-clbbo16f059z-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/vb1eu4JLDAZo0hjx6CoLyQSOmf7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/pnqdEVXGYVD6TMxEiPVS8aiZPgf.jpg</thumbnail>
+<info>Drama basado en la verdadera historia de una pareja de artistas daneses, Einar y Gerda Wegener. La vida de este matrimonio dio un giro cuando Einar sustituyó a la modelo femenina que su mujer, Gerda, tenía que pintar. Cuando los retratos resultan ser un éxito, ella anima a su marido a adoptar una apariencia femenina. Lo que comenzó como un juego llevó a Einar a una metamorfosis que puso en riesgo el amor de su esposa</info>
+</item>
 
 <item>
 <title>En el Corazon del Mar</title>
