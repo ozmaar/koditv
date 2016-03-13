@@ -140,6 +140,134 @@
 <thumbnail>http://i.imgur.com/iyxmuxj.jpg</thumbnail>
 <items>
 <item>
+ 
+ <item>
+<title>La Verdad Duele</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-4su57z7z43mb-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/vu82PVUjEaAmrxBdeH8hbx2ZBxy.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/y2wcG7VlyBRI53BZp7cyHRH5SCR.jpg</thumbnail>
+<info>El Dr. Bennet Omalu (Will Smith) es un neuropatólogo forense que descubrió el síndrome postconmoción cerebral, que tanto daño causó a numerosos jugadores de fútbol americano, provocando incluso el suicidio de muchas estrellas de la liga NFL afectadas por el síndrome, como Dave Duerson y Junior Seau.</info>
+</item>
+
+<item>
+<title>Los Juegos del Hambre: Sinsajo  2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-tsjo5rjsaxz1-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/qjn3fzCAHGfl0CzeUlFbjrsmu4c.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/sv4UUyQxP3qCp7kArPhZk1JlAj8.jpg</thumbnail>
+<info>La última entrega de 'Los juegos del hambre' nos muestra a una nación en guerra, en la que Katniss se enfrenta con uñas y dientes al presidente Snow (Donald Sutherland). Con la ayuda de algunos amigos, entre ellos Gale (Liam Hemsworth), Finnick (Sam Claflin) y Peeta (Josh Hutcherson), arriesgará la vida para salir del Distrito 13 y eliminar al presidente Snow. </info>
+</item>
+
+<item>
+<title>La Chica Danesa</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-11yus098jvmo-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/vb1eu4JLDAZo0hjx6CoLyQSOmf7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/pnqdEVXGYVD6TMxEiPVS8aiZPgf.jpg</thumbnail>
+<info>Drama basado en la verdadera historia de una pareja de artistas daneses, Einar y Gerda Wegener. La vida de este matrimonio dio un giro cuando Einar sustituyó a la modelo femenina que su mujer, Gerda, tenía que pintar. Cuando los retratos resultan ser un éxito, ella anima a su marido a adoptar una apariencia femenina. Lo que comenzó como un juego llevó a Einar a una metamorfosis que puso en riesgo el amor de su esposa</info>
+</item>
+
+<item>
+<title>Papa Vs Papito</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-3niqxm0brz1t-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/qb8O3o1J5DzX7WDEdH1nXpEHZky.jpg</fanart>
+<thumbnail>http://www.rosariocine.com.ar/info/4488d.jpg</thumbnail>
+<info>Brad siempre quizo ser un buen padre pero cuando se casó con Sarah, quien ya tenía dos pequeños hijos, se aferró a la posibilidad de intentar ser el mejor padrastro.
+Pero cuando Dusty, el verdadero padre de los dos hijos de Sarah aparece de nuevo, padre y padrastro, ambos de carácteres totalmente opuestos, empezarán un competencia casi demencial por ganarse el afecto de los niños.</info>
+</item>
+
+<item>
+<title>Lo 8 Mas Odiados</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-bzl03je5t1ph-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/sSvgNBeBNzAuKl8U8sP50ETJPgx.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/qC6EfdhPW6X3zjRvLsflayI9cKy.jpg</thumbnail>
+<info>Pocos años después de la Guerra de Secesión, una diligencia avanza por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth (Kurt Russell) y su fugitiva Daisy Domergue (Jennifer Jason Leigh), intentan llegar al pueblo de Red Rock, donde Ruth entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren (Samuel L. Jackson), un antiguo soldado de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix (Walton Goggins), un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como se aproxima una ventisca, los cuatro se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local se topan con cuatro rostros desconocidos: el mexicano Bob (Demian Bichir), Oswaldo Mobray (Tim Roth), verdugo de Red Rock, el vaquero Joe Gage (Michael Madsen) y el general confederado Sanford Smithers (Bruce Dern). Mientras la tormenta cae sobre la parada de montaña, los ocho viajeros descubren que tal vez no lleguen hasta Red Rock después de todo</info>
+</item>
+
+<item>
+<title>La Hija de Dios</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-mfm3gvlawkmi-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/4ae5taeGKYMa0Xz3ijXO0GKC8a2.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/kXHUWdw4kftmbDppqwBLFnRGFOn.jpg</thumbnail>
+<info>Después de ser testigo de un milagro, una joven latina experimenta cosas extrañas mientras que un detective intenta descubrir la verdad detrás de la muerte de su compañero.</info>
+</item>
+
+<item>
+<title>Dioses de Egypto [COLOR cyan]Cam[/COLOR]</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-q8lftajguf8t-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/2s7uzOHQtOcP2fSoM9Loh4QKiTJ.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/5opO2RV5HuXarGSBSYyqCQWxKGv.jpg</thumbnail>
+<info>La película está basada en la mitología egipcia, en la cual había un gran número de dioses: Beb y su esposa y hermana Nut, que tuvieron cuatro hijos: los varones Osiris y Seth y las mujeres Isis y Neftis. A su vez, Osiris e Isis se casaron, así como Seth con Neftis. Además, entre Osiris y su hermano Seth siempre hubo grandes enfrentamientos. Finalmente, Osiris descuartiza a Seth y reparte los pedazos de su cuerpo por todo Egipto.  Sin embargo, Isis consigue reconstruir el cuerpo de su marido y, utilizando sus poderes, le trae de vuelta a la vida. A partir de entonces, Osiris se encargaría de gobernar Duat, el país de los muertos. Además, gracias a su magia, Isis también consiguió engendrar un hijo de Osiris, Hours, al que confió al cuidado del dios de la sabiduría Tot. En un futuro, entre Seth y Hours habría un nuevo enfrentamiento, cuyo fin acabaría con Seth gobernando el desierto y los pueblos extranjeros y con Horus como dios de todo Egipto.</info>
+</item>
+
+<item>
+<title>Alavin y las Ardillas 4</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-lk1m7lg6x3vv-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/jgAedoUFoQAUBqolywqNcACVRv3.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/waP4aEfXFlIUWoImHRnbOOOew4m.jpg</thumbnail>
+<info>Tras una serie de malentendidos Alvin, Simon y Theodore piensan que Dave se va a declarar a su nueva novia en Nueva York... y por tanto se olvidará de ellos. Tienen tres días para llegar e intentar romper el compromiso y salvarse así de la pérdida de Dave.</info>
+</item>
+
+<item>
+<title>El Tigre y el Dragon 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-iyzw2sxr8bap-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://carteleravip.com/wp-content/uploads/2016/02/landscape-1453396456-crouching-tiger-800x445.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/eDFvMcCIrQT5Rlo6fgaBfBaDz8U.jpg</thumbnail>
+<info>Es una película realizada en China con la dirección de Yuen Woo-Ping escrita por John Fusco que tiene como actores a Donnie Yen, Michelle Yeoh, Harry Shum Jr., Jason Scott Lee, Eugenia Yuan, Roger Yuan, Darryl Quon. El Tigre y el Dragón dos Es una película de drama y acción oriental en la que Donnie Yen tendra que eludir a toda costa que la espada de un guerrero legendario caiga en las manos de un desalmado el que quiere el poder que brinda esta espada, este acontencimiento desencadenase una batalla sin precedentes. El Tigre y el Dragón dos la película del directivo Yuen Woo-Ping es una historia de drama que te envolverá con sus fabulosos efectos como solo el cine oriental lo puede hacer. Involucrándose en envolvedoras batallas por la protección de la espada de un guerrero legendario. esta película mezcla géneros como Acción, Aventuras, Drama y Fantástico de temática artes marciales.</info>
+</item>
+ 
 <title>Spotlight</title>
 <link>$doregex[id]</link>
 <regex>
