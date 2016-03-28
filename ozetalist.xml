@@ -155,6 +155,104 @@
 <item>
  
  <item>
+<title>El Renacido</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-kywvob7xse47740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/uS1SkjVviraGfFNgkDwe7ohTm8B.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/nlEixNrY3CwVGNgRXG8poKd80xf.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Star Wars: El Despertar de la Fuerza</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-19btfcewdfv7-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/njv65RTipNSTozFLuF85jL0bcQe.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/fqos3bbu4io2sQvERcW8rzGJwq2.jpg</thumbnail>
+<info>Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.</info>
+</item>
+
+<item>
+<title>50 Sombras de Black</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-2t1fr44sye8g-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/c9ODisNuPN8w80OeNloeUeTQ679.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/yofwtayhBTlcEtK0bdL4qW67QwJ.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Zootopia [COLOR cyan]Cam[/COLOR]</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-hzrm5re6e83z-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/mhdeE1yShHTaDbJVdWyTlzFvNkr.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/sM33SANp9z6rXW8Itn7NnG1GOEs.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Don Gato el Inicio de la Pandilla</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-j91px2c4xics-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/7pvG8heMAMwe8VkgmDY2nDasAi6.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/7oYtmc9YK8rzfD20RP4bCePB5lP.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Punto de Quiebre</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-peoegfbx7u4u-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/x2JJGVftWfx2JGyqW6pqP3JrkO0.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/tL3O5kjWPl6cfBQ8JAP1au6mMqj.jpg</thumbnail>
+<info>Un joven agente del FBI tiene como misión infiltrarse en medio de atletas de deportes extremos, sospechosos de cometer una serie de robos nuna antes vistos. No demora mucho tiempo en acercarse a Bodhi (Edgar Ramírez), el líder del grupo y ganar su confianza.</info>
+</item>
+
+<item>
+<title>Los Hijos del Diablo</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-ngey4k5pgp4c-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/r71tdOH9GJByxJHaM62bKM9QwFL.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/fTkS0EuaCFefCeP1gBSRHYsaSKY.jpg</thumbnail>
+<info><info>
+</item>
+ 
+ <item>
 <title>La Verdad Duele</title>
 <link>$doregex[id]</link>
 <regex>
