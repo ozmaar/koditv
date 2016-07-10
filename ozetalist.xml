@@ -1,13 +1,13 @@
 <channel>
-<name>Ozeta Mis Peliculas </name>
+<name>Peliculas </name>
 <fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
 <thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail>
 <items>
-	
+
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Peliculas[/B] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail><fanart>http://i.imgur.com/HYT0XhK.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/pyt_vod.xml</externallink>
+<externallink>https://github.com/Carlesto/Listas/blob/master/Hoy.xml</externallink>
 </item>
 
 <channel>
