@@ -1,4 +1,14 @@
+<channel>
+<name>Mis Peliculas</name>
+<fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
+<thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail>
+<items>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  Mis Pelis      [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail><fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
+<externallink>https://github.com/Carlesto/Listas/blob/master/Hoy.xml</externallink>
+</item>
 
 <channel>
 <name>Peliculas </name>
