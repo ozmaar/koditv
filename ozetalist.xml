@@ -202,6 +202,76 @@
 <items>
 <item>
 
+<item>
+<title>Mascotas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-1iwwftojg541-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.hdfondos.eu/pictures/2015/0626/1/orig_128997.jpg</fanart>
+<thumbnail>http://4.bp.blogspot.com/-QUICWY1t710/VYHnH7mcAPI/AAAAAAABDJU/DxWYBxLDvBE/s1600/Pets_Las_Online_Teaser_1sht.jpg</thumbnail>
+<info>[COLOR cyan]En un edificio de apartamentos de Manhattan, la vida de Max como mascota favorita corre peligro cuando su dueña trae a casa a un otro perro llamado Duke, con quien Max pronto tiene sus diferencias. Pero ambas mascotas tienen que dejar atrás su rivalidad cuando se enteran de que un adorable conejito blanco llamado Snowball esta reclutando a un ejército de animales domésticos que han sido abandonados, decididos a vengarse de todos los animales domésticos felices y de sus dueños.[/COLOR]
+</item>
+
+<item>
+<title>Yo Antes de Ti</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-c8a02i46v3fi-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/o4lxNwKJz8oq3R0kLOIsDlHbDhZ.jpg</fanart>
+<thumbnail>http://pics.filmaffinity.com/me_before_you-594538815-mmed.jpg</thumbnail>
+<info>[COLOR cyan]Louisa “Lou” Clark (Emilia Clarke), una chica inestable y creativa, reside en un pequeño pueblo de la campiña inglesa. Vive sin rumbo y va de un trabajo a otro para ayudar a su familia a llegar a fin de mes. Sin embargo, un nuevo trabajo pondrá a prueba su habitual alegría. En el castillo local, se ocupa de cuidar y acompañar a Will Traynor (Sam Claflin), un joven y rico banquero que se quedó paralítico tras un accidente.[/COLOR]
+</item>
+
+<item>
+<title>Un Espia Y Medio (SUBTITULADA)</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-6zfyk4s40a1j-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/nX64YARJo4OugPTSVuvFwZzcqM4.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/q7GOSxRsBLTJysmAEjFoQZfScsq.jpg</thumbnail>
+<info>[COLOR cyan]Esta película cuenta la historia de un nerd que sufrió de bullying durante su adolescencia y que ahora se ha convertido en un letal agente de la CIA (Johnson), él regresa a casa para asistir a la reunión de generación de la preparatoria y pretendiendo estar en una misión secreta, solicita la ayuda de quien fuera el chico más popular de la clase -convertido ahora en un contador que añora sus días de gloria- y antes de que pueda siquiera pensarlo, se ve involucrado en un mundo de espionaje, acción y explosiones.  Cine140.com[/COLOR]
+</item>
+
+<item>
+<title>The Purgue 3</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8vt8399vdo25-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/lPhsKTtycmbp6bzJAG662Pd5U3N.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/1dMUiLOMgdvNz1NOTZrUuZkIzyC.jpg</thumbnail>
+<info>[COLOR cyan]Han pasado dos años desde que el ex-sargento de policía Leo Barnes (Frank Grillo) decidió no vengarse del hombre que mató a su hijo. Ahora Barnes dirige al equipo de seguridad que se encarga de proteger a la senadora Charlie Roan (Elizabeth Mitchell), una candidata a la Presidencia que reivindica la supresión de La Purga anual, que consiste en permitir, una noche al año, cualquier actividad criminal, incluído el asesinato. Roan considera que esta práctica perjudica sobre todo a los necesitados y a los pobres[/COLOR]</info>
+</item>
+
+<item>
+<title>Angry Birds</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-e95kn8wqzok6-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/3mJcfL2lPfRky16EPi95d2YrKqu.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uiOK4gnD6SV4dM1JiE56KFjHE6r.jpg</thumbnail>
+<info>[COLOR cyan]Basada en la colección de videojuegos Angry Birds, la historia se desarrolla en una isla poblada por aves felices que no vuelan. En este paraíso, Red, un pájaro con muy mal genio, el veloz Chuck y el volátil Bomb nunca han terminado de encajar. Pero cuando llegan a la isla unos misteriosos cerdos verdes, serán estos tres marginados los que averigüen qué traman los extraños visitantes.[/COLOR]</info>
+</item>
+
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-6i305mjz1nv3-740x360.html</page>	 <referer>http://streamin.to</referer></regex>              <title>Ominous</title>
     <thumbnail>https://image.tmdb.org/t/p/w500/hlX5bI7buFwzRsPyQga50yUpcXQ.jpg</thumbnail>
      <fanart> </fanart>
