@@ -76,7 +76,7 @@
 </item>
 
 <channel>
-<name>Entretenimiento y pelis </name>
+<name>Series Sptiembre 2016 </name>
 <fanart>http://i.imgur.com/1q1Jrp3.jpg</fanart>
 <thumbnail>http://i.imgur.com/1q1Jrp3.jpg</thumbnail>
 <items>
@@ -84,9 +84,9 @@
  
 
  <item>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  Entretenimiento      [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue] Series      [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/1q1Jrp3.jpg</thumbnail><fanart>http://i.imgur.com/1q1Jrp3.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/ent.xml</externallink>
+<externallink>https://raw.githubusercontent.com/ozmaar/koditv/master/lista%20series.m3u</externallink>
 </item>
 
 
