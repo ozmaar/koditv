@@ -1,13 +1,13 @@
 
 #EXTM3U
 #EXTINF:-1 channelId="2620" , Mons Stage tUBO
-http://d2pmnkfs8oyghv.cloudfront.net/MonsEdge/MVMSHD.stream_720p/playlist.m3u8
+rtmp://216.105.165.71:1950/stream49/live
 #EXTINF:-1 channelId="1959" , Mons Dressing Room vESTIDOR
-http://d2pmnkfs8oyghv.cloudfront.net/MonsEdge/MVDRHD.stream_720p/playlist.m3u8
+rtmp://216.105.165.72:1941/stream9/live
 #EXTINF:-1 channelId="243" , 2001 Stage TUBO
-http://d2pmnkfs8oyghv.cloudfront.net/2001Edge/2001MSHD.stream_720p/playlist.m3u8
+rtmp://216.105.165.72:1939/stream7/live
 #EXTINF:-1 channelId="238" , 2001 Dressing Room VESTIDOR
-http://d2pmnkfs8oyghv.cloudfront.net/2001Edge/2001DRHD.stream_720p/playlist.m3u8
+rtmp://216.105.165.72:1940/stream8/live
 #EXTINF:0 channelId="-1" , LIVE SEX LATINAS
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 #EXTINF:-1 channelId="-1" , BABESTATION XTRA
