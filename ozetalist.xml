@@ -3,12 +3,17 @@
 <fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
 <thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail>
 <items>
-
+<item>
+ 
+ +<title>[COLOR lime]•[/COLOR][COLOR skyblue]  SEÑOR DE LOS CIELOS      [/COLOR]</title>
+  <link>http://ignorame</link><thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail><fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
+ -<externallink>http://live.tvplayerlatino.com/lista_series.m3u</externallink>
+  </item>
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR skyblue]  NUEVO      [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/A4uxrot.jpg</thumbnail><fanart>http://i.imgur.com/A4uxrot.jpg</fanart>
 <externallink>https://dl.dropboxusercontent.com/s/t2znxlaqmy0evmk/LINKPRINCIPAL1.xml</externallink>
-</item
+</item>
 
 
 
