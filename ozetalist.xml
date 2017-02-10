@@ -1,13 +1,69 @@
 <channels>
 
 <channel>
-      <name>[COLOR red][COLOR  lime]•  [/COLOR]Febrero 2017[/COLOR]</name>
-  <thumbnail>https://iptvkodi.files.wordpress.com/2015/05/mexico2.jpg</thumbnail>
-<fanart>http://st2.depositphotos.com/1265075/6709/v/950/depositphotos_67099643-Made-in-mexico.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://miflix.x10.bz/menu.xml</externallink>
-</channel>
-  </channels>
+<name>Estrenos</name>
+<fanart>http://i.imgur.com/iyxmuxj.jpg</fanart>
+<thumbnail>http://i.imgur.com/iyxmuxj.jpg</thumbnail>
+<items>
+<item>
+	
+<item>
+  <title>[COLOR yellow]mi[/COLOR][COLOR red]flix[/COLOR] • ESTRENOS Miflix • </title>
+  <link>ignorame</link> 
+  <externallink>http://miflix.x10.bz/estreno.xml</externallink> 
+  <thumbnail>http://www.miflix.x10.bz/icon.png</thumbnail>
+<fanart>http://www.miflix.x10.bz/MIFLIX.png</fanart>
+</item>
+
+
+<item>
+  <title>[COLOR yellow]mi[/COLOR][COLOR red]flix[/COLOR] • PELICULAS • </title>
+  <link>ignorame</link> 
+  <externallink>http://miflix.x10.bz/SERVIDOR.xml</externallink> 
+  <thumbnail>http://www.miflix.x10.bz/icon.png</thumbnail>
+<fanart>http://www.miflix.x10.bz/MIFLIX.png</fanart>
+</item>
+
+
+<item>
+ <title>[COLOR yellow]mi[/COLOR][COLOR red]flix[/COLOR] • SERIES • </title>
+  <link>ignorame</link> 
+  <externallink>http://miflix.x10.bz/series.xml</externallink> 
+  <thumbnail>http://www.miflix.x10.bz/icon.png</thumbnail>
+<fanart>http://www.miflix.x10.bz/MIFLIX.png</fanart>> 
+</item>
+
+<item>
+ <title>[COLOR yellow]mi[/COLOR][COLOR red]flix[/COLOR] • NOVELAS • </title>
+  <link>ignorame</link> 
+  <externallink>http://miflix.x10.bz/nove.xml</externallink> 
+  <thumbnail>http://www.miflix.x10.bz/icon.png</thumbnail>
+<fanart>http://www.miflix.x10.bz/MIFLIX.png</fanart>> 
+</item>
+
+
+<item>
+ <title>[COLOR yellow]mi[/COLOR][COLOR red]flix[/COLOR] • CONCIERTOS • </title>
+  <link>ignorame</link> 
+  <externallink>http://pastebin.com/raw/WHjc8y6E</externallink> 
+  <thumbnail>http://www.miflix.x10.bz/icon.png</thumbnail>
+<fanart>http://www.miflix.x10.bz/MIFLIX.png</fanart>> 
+</item>
+
+
+
+ <title>[COLOR yellow]mi[/COLOR][COLOR red]flix[/COLOR] • CANALES TV • </title>
+  <link>ignorame</link> 
+  <externallink>http://miflix.x10.bz/canales.xml</externallink> 
+  <thumbnail>http://www.miflix.x10.bz/icon.png</thumbnail>
+<fanart>http://www.miflix.x10.bz/MIFLIX.png</fanart>> 
+</item>
+	
+	
+	
+	
+	
+	
 	
 <channel>
       <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Canales [/COLOR]</name>
