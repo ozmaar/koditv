@@ -24,7 +24,28 @@
 <link>http://ignoreme</link>
    <externallink>http://srregio.net/regiotv.m3u</externallink>
 </item> 
+<item>
+<title>[COLOR white]• [/COLOR][COLOR blue]Canales 24/7[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR white]• [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
+<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8</link>
 
+
+<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<fanart>https://2.bp.blogspot.com/-bIwp9q7owqw/WVya6zd1HVI/AAAAAAAAAGM/6Ru-Y9S0GMs8ygAOtMf5h6YUbCSF7InZwCLcBGAs/s320/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+</item>
 <item>
       <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Series[/B][/COLOR]</title>
   <thumbnail>http://icons.iconarchive.com/icons/treetog/i/256/Videos-icon.png</thumbnail>
