@@ -51,83 +51,72 @@
 
  <item>
       <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Peliculas[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/treetog/i/256/Videos-icon.png</thumbnail>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/26/205901/big_thumb_e0389e2031c3b353637bb0c3c5739117.jpg</fanart>
+  <thumbnail>https://image.ibb.co/enXuK5/peliculas.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/PeliculasMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/PeliculasMaster.xml</externallink>
 </item> 
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Series actuales[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/TV-Shows-icon.png</thumbnail>
-<fanart>https://us.v-cdn.net/6025034/uploads/ipb/monthly_12_2010/post-33146-017622700%201292496660.jpg</fanart>
+      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Series[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/kg5LsQ/series.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/SeriesMaster.xml</externallink>
-</item>
-
- <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Series retro[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/lajonard/movie-folder/256/Series-icon.png</thumbnail>
-<fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/03/21/55855/big_thumb_7031b68034f0eedad7723aa0f80791a6.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/SeriesRetro.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/Seriesglobal.xml</externallink>
 </item>
 
  <item>
       <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Novelas[/B][/COLOR]</title>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV-icon-novela.svg/320px-TV-icon-novela.svg.png</thumbnail>
-<fanart>http://noticasmix.com.ve/wp-content/uploads/2017/03/netflix-ingobernable.jpg</fanart>
+  <thumbnail>https://image.ibb.co/hO2Emk/novelas.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/NovelasMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/NovelasMaster.xml</externallink>
 </item>
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Niños[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/softskin/series-folder/256/Folder-TV-Disney-icon.png</thumbnail>
-<fanart>https://images6.alphacoders.com/327/thumb-1920-327968.jpg</fanart>
+      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Kids[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/ky8n6k/kids.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/KidsMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/KidsMaster.xml</externallink>
 </item>
 
  <item>
       <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Documentales[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/itzikgur/my-seven/256/3D-Eagle-icon.png</thumbnail>
-<fanart>http://elcondensadordefluzo.blogs.fotogramas.es/files/2016/05/documentales-cine-25-lista.jpg</fanart>
+  <thumbnail>https://image.ibb.co/fo61XQ/Documentales.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/DocumentalesMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/DocumentalesMaster.xml</externallink>
 </item>
 
  <item>
       <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Deportes[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/iconshock/folder/256/sports-icon.png</thumbnail>
-<fanart>http://hdwallpaperbackgrounds.net/wp-content/uploads/2017/03/HD-Sport-Wallpapers-20.jpg</fanart>
+  <thumbnail>https://image.ibb.co/bLkZmk/deportes.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/ComunidadMaster.xml</externallink>
-</item>
-
- <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]IPTV[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/dailyoverview/tv/256/television-05-icon.png</thumbnail>
-<fanart>http://4.bp.blogspot.com/-QnBB6FP4d18/UzI30Kzb36I/AAAAAAAABSc/0baKzgZVdPo/s1600/preview.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/SummerTV.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/Deportes.xml</externallink>
 </item>
 
  <item>
       <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Extras[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/aaron-sinuhe/series-season-folder/256/extras-icon.png</thumbnail>
-<fanart>https://fedoraproject.org/w/uploads/4/49/Wallpaper-gothick-acoustic-guitar.jpg</fanart>
+  <thumbnail>https://image.ibb.co/mTZoCQ/extras.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/ExtrasMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/ExtrasMaster.xml</externallink>
 </item>
 
-
-      <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]TV PRUEBA[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/itzikgur/my-seven/256/3D-Eagle-icon.png</thumbnail>
-<fanart>http://elcondensadordefluzo.blogs.fotogramas.es/files/2016/05/documentales-cine-25-lista.jpg</fanart>
+ <item>
+      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Comunidad SummerTV[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/hfRqRk/comunidad.png</thumbnail>
+<fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>http://julioswizard.esy.es/SummerTV/Master/Canales.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/ComunidadMaster.xml</externallink>
 </item>
 
-
+<item>
+<title>[COLOR blue][COLOR red]• [/COLOR] [B]IPTV[/B][/COLOR]</title>
+<link>http://ignora.me</link>
+<externallink>http://exabytetv.info/lista.m3u</externallink>
+<thumbnail>https://image.ibb.co/nOMJCQ/iptv.png</thumbnail><fanart></fanart>
+</item>
+</item>
