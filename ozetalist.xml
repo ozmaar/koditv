@@ -39,7 +39,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white]• [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
-<link>https://hls-ord-1a.vaughnsoft.net/ams/live/live_[makelist.param1]/chunklist.m3u8</link>
+<link>https://raw.githubusercontent.com/djliptv/DJLIPTV/ef98e6363f8aabd6dc829c70e4e42730ffbfa62d/Menu/24-7/247SPANISH.xml</link>
 
 
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
