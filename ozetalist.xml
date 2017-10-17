@@ -79,73 +79,65 @@
 </item> 
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Peliculas[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/enXuK5/peliculas.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]Peliculas[/B][/COLOR]</title>
+  <thumbnail>https://preview.ibb.co/fhUekm/Peliculas.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/PeliculasMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/PeliculasMaster.xml</externallink>
 </item> 
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Series[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/kg5LsQ/series.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]Series[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/hx9jJ6/series.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/Seriesglobal.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/Seriesglobal.xml</externallink>
 </item>
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Novelas[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/hO2Emk/novelas.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]Novelas[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/f0Bgy6/novelas.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/NovelasMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/NovelasMaster.xml</externallink>
 </item>
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Kids[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/ky8n6k/kids.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]Infantil[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/cOAK36/kids.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/KidsMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/KidsMaster.xml</externallink>
 </item>
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Documentales[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/fo61XQ/Documentales.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]Documentales[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/kZ2kAm/documentales.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/DocumentalesMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/DocumentalesMaster.xml</externallink>
 </item>
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Deportes[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/bLkZmk/deportes.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]Deportes[/B][/COLOR]</title>
+  <thumbnail>https://image.ibb.co/i9MgGR/deportes.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/Deportes.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/Deportes.xml</externallink>
 </item>
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Extras[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/mTZoCQ/extras.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]Musica[/B][/COLOR]</title>
+  <thumbnail>https://preview.ibb.co/iocz36/musica.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/ExtrasMaster.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/ExtrasMaster.xml</externallink>
 </item>
 
  <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]Comunidad SummerTV[/B][/COLOR]</title>
-  <thumbnail>https://image.ibb.co/hfRqRk/comunidad.png</thumbnail>
+      <title>[COLOR blue][COLOR white]• [/COLOR] [B]IPTV[/B][/COLOR]</title>
+  <thumbnail>https://preview.ibb.co/kYUMi6/iptv.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/AngelRiordan/SummerTV/master/Master/ComunidadMaster.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR blue][COLOR red]• [/COLOR] [B]IPTV[/B][/COLOR]</title>
-<link>http://ignora.me</link>
-<externallink>http://exabytetv.info/lista.m3u</externallink>
-<thumbnail>https://image.ibb.co/nOMJCQ/iptv.png</thumbnail><fanart></fanart>
-</item>
+   <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/IPTVmaster.xml</externallink>
 </item>
