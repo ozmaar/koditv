@@ -39,7 +39,7 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[COLOR white]• [/COLOR][COLOR blue][makelist.param2][/COLOR]</title>
-<link>https://raw.githubusercontent.com/djliptv/DJLIPTV/ef98e6363f8aabd6dc829c70e4e42730ffbfa62d/Menu/24-7/247SPANISH.xml</link>
+<link>https://raw.githubusercontent.com/djliptv/DJLIPTV/ef98e6363f8aabd6dc829c70e4e42730ffbfa62d/Menu/TV/LATINEBTV.m3u</link>
 
 
 <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
