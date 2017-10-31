@@ -36,6 +36,12 @@
 		<externallink>http://tecnotv.xyz/addon/index.xml?NoUsesSinPermiso</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
 		</item>
 <item>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]EL RINCON DE LOLO[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/lolo.png</thumbnail><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://bit.ly/RinconLolo2</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white]• [/COLOR][COLOR blue]Canales 24/7[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
