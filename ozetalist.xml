@@ -25,13 +25,16 @@
    <externallink>http://adryanlist.org/adryan/totalp.xml</externallink>
 </item> 
 
+<item><title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]BASSFOX[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
+		<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/bassfox.png</thumbnail> 
+		<externallink>https://goo.gl/YuhGky</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+		</item>
+
 <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]NVO BASS FOX[/B][/COLOR]</title>
-  <thumbnail>https://i.imgur.com/V2mymP2.jpg</thumbnail>
-<fanart>https://i.imgur.com/V2mymP2.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://goo.gl/YuhGky</externallink>
-</item> 
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]TECNOTV[/B][/COLOR]  [COLOR lightslategray]  [/COLOR]</title>
+		<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/tecno.png</thumbnail> 
+		<externallink>http://tecnotv.xyz/addon/index.xml?NoUsesSinPermiso</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+		</item>
 <item>
 <title>[COLOR white]• [/COLOR][COLOR blue]Canales 24/7[/COLOR]</title>
 <link>$doregex[makelist]</link>
