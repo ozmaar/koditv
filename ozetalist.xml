@@ -150,3 +150,90 @@
 <link>http://ignoreme</link>
    <externallink>https://raw.githubusercontent.com/KodiZihua/ZihuaFlix/master/Master/IPTVmaster.xml</externallink>
 </item>
+	
+	<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Paises[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/paises.png</thumbnail><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryantv.org/adryan/paises.xml</externallink>
+</item>
+<tem>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internacionales[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/internacional.jpg</thumbnail><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryantv.org/adryan/inter.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  USA and UK Channels[/COLOR]  [COLOR lightslategray] filmon channels[/COLOR]</title>
+
+<link>$doregex[makelist]</link>
+<regex>
+   <name>makelist</name>
+   <listrepeat><![CDATA[
+          <title>[UPPERCASE][COLOR skyblue][makelist.param1][/COLOR][/UPPERCASE]</title>
+          <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[get-url]&amp;name=[makelist.param1] [AdryanList]</link>
+   ]]></listrepeat>
+   <expres>titulo="(.*?)".*channel_id=(.*?)"</expres>
+   <page>http://adryantv.org/adryan/filmon.xml</page>
+   <cookieJar></cookieJar>
+</regex>
+
+
+
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def getCookiesString(cookieJar):
+    try:
+        cookieString=""
+        for index, cookie in enumerate(cookieJar):
+            cookieString+=cookie.name + "=" + cookie.value +";"
+    except: pass
+    #print 'cookieString',cookieString
+    return cookieString
+
+def f4mcallback(param, type, error, Cookie_Jar, url, headers):
+  if type==1:
+    newurl=getUrl(param,Cookie_Jar)
+    oldservername=url.split('/')[2]
+    newserver=newurl.split('/')
+    newserver[2]=oldservername
+    newurl='/'.join(newserver)
+    return newurl,Cookie_Jar
+  else:
+    return '',None
+
+def getUrl(param, Cookie_Jar):
+  import requests, re, urllib, inspect
+  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
+  url = 'http://www.filmon.com/tv/channel/export?channel_id='+param
+  session = requests.session()
+  session.cookies = Cookie_Jar
+  source= session.get(url, headers = headers)
+  swf = re.findall('streamer":"(.*?)"', source.text)[0]
+  cleanswf = swf.replace('\\/','/')
+  referer = 'http://www.filmon.com' + cleanswf
+  headers1 = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
+  url2 = 'http://www.filmon.com/api-v2/channel/%s?protocol=hls'%param
+  source1= session.get(url2, headers = headers1)
+  getHD = re.findall('"high","url":"([^"]+)"', source1.text)[0]
+  return getHD 
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+  import os,urllib
+  callbackfunction=os.path.realpath(__file__)
+  callbackparam='[makelist.param2]'
+  url=getUrl('[makelist.param2]',Cookie_Jar)
+  referer = 'http://www.filmon.com/'
+  print 'url',url
+  return urllib.quote_plus (url + '|Referer=' + referer+'&cookie='+getCookiesString(Cookie_Jar)+'&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36') +'&callbackpath='+urllib.quote_plus(callbackfunction)+'&callbackparam='+urllib.quote_plus(callbackparam)
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+<thumbnail>http://adryantv.org/adryan/img/filmon.png</thumbnail><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+</item>
+
+
+
+
+
