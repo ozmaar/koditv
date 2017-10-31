@@ -25,9 +25,9 @@
    <externallink>https://raw.githubusercontent.com/ozmaar/koditv/master/tv%20prueba.m3u</externallink>
 </item> 
 
-<item><title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]BASSFOX[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
+<item><title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]TV[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/bassfox.png</thumbnail> 
-		<externallink>https://raw.githubusercontent.com/ozmaar/koditv/master/BASF.xml</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
+		<externallink>http://srregio.xyz/Addon1.1/Menus/MenuTelevision.xml</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
 		</item>
 
 <item>
@@ -68,7 +68,7 @@
   <thumbnail>http://icons.iconarchive.com/icons/treetog/i/256/Videos-icon.png</thumbnail>
 <fanart>http://www.wallpaperup.com/uploads/wallpapers/2013/12/26/205901/big_thumb_e0389e2031c3b353637bb0c3c5739117.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://srregio.net/Addon1.1/Menus/MenuSeries.xml</externallink>
+   <externallink>http://srregio.xyz/Addon1.1/Menus/MenuSeries.xml</externallink>
 </item> 
 
 <item>
