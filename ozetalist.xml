@@ -41,160 +41,45 @@
 <externallink>http://bit.ly/RinconLolo2</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
 </item>
 
-<channe>
-    <name>[COLOR cyan][COLOR  lime]•  [/COLOR][COLOR  white] Especial:[/COLOR] [COLOR  red]Feliz Navidad![/COLOR]</name>
-    <thumbnail>https://k60.kn3.net/8/D/5/C/5/D/17D.jpg</thumbnail>
-    <fanart>https://st2.depositphotos.com/1013693/5673/i/950/depositphotos_56736165-stock-photo-christmas-background-with-firtree-candies.jpg</fanart>
-    <link>https://ia601500.us.archive.org/11/items/Viaje_201707/Viaje.mp4</link>
-        <items>
-
-                        <item><title>                              [COLOR  white] Especial:[/COLOR] [COLOR  red]Navideño[/COLOR] -[COLOR turquoise] TuTeVe[/COLOR]</title>  
-    <thumbnail>https://k60.kn3.net/8/D/5/C/5/D/17D.jpg</thumbnail>
-    <fanart>https://st2.depositphotos.com/1013693/5673/i/950/depositphotos_56736165-stock-photo-christmas-background-with-firtree-candies.jpg</fanart><link>https://ia601500.us.archive.org/11/items/Viaje_201707/Viaje.mp4</link></item>
-
-<item>
-<title>[COLOR red]•   [/COLOR][COLOR  white]Películas Navideñas[/COLOR][COLOR  red] - Clic Aquí[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR orange]•   [/COLOR][COLOR white][makelist.param3] [/COLOR][COLOR turquoise]- TuTeVe[/COLOR]</title>
-        <link>$doregex[getUrl]</link>
-        <thumbnail>https://k60.kn3.net/8/D/5/C/5/D/17D.jpg</thumbnail>
-        <fanart>https://st2.depositphotos.com/1013693/5673/i/950/depositphotos_56736165-stock-photo-christmas-background-with-firtree-candies.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/marcos20/peliculas-de-navidad-en-espanol-latino-17084</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/marcos20/peticiones-16957/list,1,10</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://k60.kn3.net/8/D/5/C/5/D/17D.jpg</thumbnail>
-<fanart>https://st2.depositphotos.com/1013693/5673/i/950/depositphotos_56736165-stock-photo-christmas-background-with-firtree-candies.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR][/COLOR][COLOR white] +Peliculas Navideñas 2[/COLOR] [COLOR red][Clic Aqui][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-            <name>makelist</name>
-            <listrepeat><![CDATA[
-                        <title>[COLOR cyan][COLOR  lime]• [/COLOR][COLOR white][makelist.param2] [/COLOR][COLOR turquoise]- TuTeVe[/COLOR]</title>
-                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-                        <thumbnail>https://k60.kn3.net/8/D/5/C/5/D/17D.jpg</thumbnail>
-<fanart>https://st2.depositphotos.com/1013693/5673/i/950/depositphotos_56736165-stock-photo-christmas-background-with-firtree-candies.jpg</fanart>
-            ]]></listrepeat>
-            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
-            <page>https://www.youtube.com/playlist?list=PLMA7GiLPB6GVN5J9eiNRucmJP5yqSK903</page>
-             <cookieJar></cookieJar>
-            <info>Peliculas Navideñas</info>
-      <thumbnail>https://k60.kn3.net/8/D/5/C/5/D/17D.jpg</thumbnail>
-      <fanart>https://st2.depositphotos.com/1013693/5673/i/950/depositphotos_56736165-stock-photo-christmas-background-with-firtree-candies.jpg</fanart>
-</regex>
-</item>
---------------------------------------------------------------------------------------------------------------------------------------
+<channels>
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Canales IPTV En Español [/COLOR]</name>
-  <thumbnail>https://k61.kn3.net/7/7/9/4/A/5/E2E.jpg</thumbnail>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Peliculas[/COLOR]</name>
+  <thumbnail>https://k61.kn3.net/6/4/D/F/8/5/C83.jpg</thumbnail>
 <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/Jb8aD4Wm</externallink>
+   <externallink>https://pastebin.com/raw/cxkccmf0</externallink>
 </channel>
   </channels>
- <channels>
+ 
+ 
 
----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+<channels>
+ 
 <channel>
-    <name>[COLOR white][COLOR cyan][COLOR  lime]•   [/COLOR]Canales [/COLOR][COLOR  white]24/7 [/COLOR]</name>
-    <thumbnail>https://k60.kn3.net/3/C/1/6/1/0/473.jpg</thumbnail>
-    <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart>
-    <link>https://ia601500.us.archive.org/11/items/Viaje_201707/Viaje.mp4</link>
-        <items>
-
-                        <item><title>                              [COLOR turquoise] Canales 24/7[/COLOR][COLOR turquoise] -[/COLOR][COLOR white] TuTeVe[/COLOR]</title>  
-    <thumbnail>https://k60.kn3.net/3/C/1/6/1/0/473.jpg</thumbnail>
-    <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart><link>https://ia601500.us.archive.org/11/items/Viaje_201707/Viaje.mp4</link></item>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Series[/COLOR]</name>
+  <thumbnail>https://k61.kn3.net/4/9/E/4/A/1/FBD.jpg</thumbnail>
+<fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/GTuuvEgT</externallink>
+</channel>
+  </channels>
 
 
-<item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR][COLOR  white] Canales 24/7[/COLOR] En Español [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]•   [/COLOR][COLOR white][makelist.param2][/COLOR]</title>
-<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
-<fanart>https://k61.kn3.net/0/3/B/C/F/6/DB2.jpg</fanart>
-]]></listrepeat>
-<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
-<page>https://vaughnlive.tv/browse/espanol&amp;a=mvn</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<fanart>https://k61.kn3.net/0/3/B/C/F/6/DB2.jpg</fanart>
-<thumbnail>https://k60.kn3.net/3/C/1/6/1/0/473.jpg</thumbnail>
-<info>Canales 24/7 - TuTeVe - Apoya Donando Por Paypal A: e_64@hotmail.es</info></item>
-
-<item>
-<title>[COLOR cyan][COLOR  lime]•  [/COLOR] [COLOR  white]Canales 24/7[/COLOR] En Ingles [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]•   [/COLOR][COLOR white][makelist.param2][/COLOR]</title>
-<link>https://hls.vaughnsoft.net/ord/live/live_[makelist.param1]/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link>
-<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail>
-<fanart>https://k61.kn3.net/0/3/B/C/F/6/DB2.jpg</fanart>
-]]></listrepeat>
-<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
-<page>https://vaughnlive.tv</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<fanart>https://k61.kn3.net/0/3/B/C/F/6/DB2.jpg</fanart>
-<thumbnail>https://k60.kn3.net/3/C/1/6/1/0/473.jpg</thumbnail>
-<info>Canales 24/7 - TuTeVe - Apoya Donando Por Paypal A: e_64@hotmail.es</info></item>
-
-                        <item><title>                     [COLOR=blue]<<[/COLOR][COLOR=white] Canales 24/7[/COLOR][COLOR turquoise] -[/COLOR][COLOR white] TuTeVe[/COLOR][COLOR=blue]>>[/COLOR]</title>  
-    <thumbnail>https://k60.kn3.net/3/C/1/6/1/0/473.jpg</thumbnail>
-    <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart><link>https://ia601500.us.archive.org/11/items/Viaje_201707/Viaje.mp4</link></item>
-
-                        <item><title>[COLOR cyan][COLOR  lime]•  [/COLOR][/COLOR][COLOR turquoise] [/COLOR][COLOR white] Telemundo[/COLOR]</title>  
-                        <thumbnail>http://lh3.googleusercontent.com/tu9WcwuM1zxXvzJayy-sMlsbNHQKwV3kupI4ECTahJf701QA5qedO7JYrJzNGt_dod8=w300</thumbnail>
-                        <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart><link>https://hls.vaughnsoft.net/ord/live/live_telemundo50/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link></item>
-
-                        <item><title>[COLOR cyan][COLOR  lime]•  [/COLOR][/COLOR][COLOR turquoise] [/COLOR][COLOR white] Los Simpson[/COLOR]</title>  
-                        <thumbnail>https://orig00.deviantart.net/f235/f/2012/328/b/3/los_simpsons_png_1_by_florchu1-d5m0vop.png</thumbnail>
-                        <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart><link>https://hls.vaughnsoft.net/ord/live/live_simpson_maniahd50/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link></item>
-
-                        <item><title>[COLOR cyan][COLOR  lime]•  [/COLOR][/COLOR][COLOR turquoise] [/COLOR][COLOR white] El Chavo Del 8[/COLOR]</title>  
-                        <thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_chavo_320.jpg</thumbnail>
-                        <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart><link>https://hls.vaughnsoft.net/ord/live/live_mega_chavo/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link></item>
-
-                        <item><title>[COLOR cyan][COLOR  lime]•  [/COLOR][/COLOR][COLOR turquoise] [/COLOR][COLOR white] Dragon Ball[/COLOR]</title>  
-                        <thumbnail>http://www.pngmart.com/files/3/Dragon-Ball-Logo-PNG-Photos.png</thumbnail>
-                        <fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart><link>https://hls.vaughnsoft.net/ord/live/live_goku_tv/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0&amp;Referer=https://vaughnlive.tv</link></item>
----------------------------------------------------------------------------------------------------------------------------------------
+<channels>
+ 
+<channel>
+      <name>[COLOR white][COLOR cyan][COLOR  lime]•   [/COLOR]Estaciones De Radio [/COLOR]</name>
+  <thumbnail>https://k61.kn3.net/A/7/D/8/D/C/B67.jpg</thumbnail>
+<fanart>http://www.hdwallpaperup.com/wp-content/uploads/2014/11/red-yellow-blue-color-hd-wallpaper-1024x768.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://pastebin.com/raw/Dtrt2u1G</externallink>
+</channel>
+  </channels>
  <channels>
 <channel>
       <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Peliculas[/COLOR]</name>
