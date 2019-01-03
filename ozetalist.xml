@@ -51,13 +51,17 @@
 
 
 
+<!--SERIES-->
 <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]SERIES Junio 27[/B][/COLOR]</title>
-  <thumbnail>http://icons.iconarchive.com/icons/treetog/i/256/Videos-icon.png</thumbnail>
-<fanart>https://i.imgur.com/V2mymP2.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://resistance.es/Data/Menus/Menu_series.xml</externallink>
-</item> 
+   <title>SERIES</title>
+   <thumbnail>https://dl.dropbox.com/s/u201ncxuxtyo78u/series.png?dl=0</thumbnail>
+   <fanart>http://www89.uptobox.com/d/7iy5xtyshnp5hv2qgbypg3rno7aopgsrblomnm5biup4733pj7vsbvj6cdj3t4547io4tbxvugs3fqq/series.png</fanart>
+   	<genre></genre>
+	<info></info>
+	<link>http://ignoreme</link>
+	<externallink>https://dl.dropbox.com/s/aow3chvhc55n6mw/series.xml?dl=0</externallink>	
+</item>-->
+
 
 <item><title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]TV[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/bassfox.png</thumbnail> 
