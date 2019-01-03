@@ -51,6 +51,85 @@
 
 
 
+<!--PELICULAS-->
+<item>
+   <title>PELICULAS</title>
+   <thumbnail>https://dl.dropbox.com/s/ike9a87m9q4aulc/peliculas.png?dl=0</thumbnail>
+   <fanart>http://www89.uptobox.com/d/7iy4vtyshnp5hv2qgbypg3tferxwvc5xen7ajz7bte4wtuub42szfzojmd3bflpzkppqzdrhh4xggta/peliculas.png</fanart>
+   	<genre></genre>
+	<info></info>
+	<link>http://ignoreme</link>
+	<externallink>https://dl.dropbox.com/s/dixjcoutgxklfl5/menu_peliculas.xml?dl=0</externallink>	
+</item>-->
+
+
+
+<!--PELISPLUS ESTRENOS
+<item>
+<title>PELISPLUS ESTRENOS</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[li.*movie.*\n.*?href="(.*?)".*\n.*\n.*?an>(.*?)<]]></expres>
+<page>http://www.pelisplus.tv/peliculas/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[makelist2.param3]</title>
+<link>$doregex[enlace]</link>
+<info>$doregex[info]</info>
+<fanart>$doregex[f]</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/[makelist2.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[<li data-url="(.*?)".*\n.*\n.*154\/(.*?)".*\n.*\n.*\n.*">(.*?)<]]></expres>
+<page>[makelist.param1]</page>
+</regex>
+<regex>
+<name>info</name>
+<expres>Sinopsis.*\n(.*)</expres>
+<page>[makelist2.param1]</page>
+</regex>
+<regex>
+<name>f</name>
+<expres>meta.*\n.*con.*?"(.*?)".*\n.*og\:title</expres>
+<page>[makelist2.param1]</page>
+</regex>
+<regex>
+<name>src</name>
+<expres><![CDATA[iframe.*?src.*?\'(.*?)\']]></expres>
+<page>[makelist2.param1]</page>
+</regex>
+<regex>
+<name>link</name>
+<expres><![CDATA[id.*?rapidvideo.*?embed\/(.*?)"]]></expres>
+<page>$doregex[src]</page>
+</regex>
+
+<regex>
+<name>enlace</name>
+<expres>source.*?"(.*?)"</expres>
+<page>https://www.rapidvideo.com/v/$doregex[link]&q=720p</page>
+</regex>
+	 
+</item>-->
+
+
+<!--PELICULAS LISTAS
+<item>
+   <title>LISTAS DE PELICULAS</title>
+   <thumbnail>https://dl.dropbox.com/s/ike9a87m9q4aulc/peliculas.png?dl=0</thumbnail>
+   <fanart>http://info.kodimex.net/FONDO.jpg</fanart>
+   	<genre></genre>
+	<info></info>
+	<link>http://ignoreme</link>
+	<externallink>https://dl.dropbox.com/s/k82n7wr6nk0vriq/listaspeliculas.xml?dl=0</externallink>	
+</item>-->
+
 <!--SERIES-->
 <item>
    <title>SERIES</title>
@@ -61,6 +140,33 @@
 	<link>http://ignoreme</link>
 	<externallink>https://dl.dropbox.com/s/aow3chvhc55n6mw/series.xml?dl=0</externallink>	
 </item>-->
+
+
+
+<!--CONCIERTOS-->
+<item>
+   <title>CONCIERTOS</title>
+   <thumbnail>https://www.dropbox.com/s/c6xhlpiic72m28q/CONCIERTOS.png?dl=1</thumbnail>
+   <fanart>http://www89.uptobox.com/d/7iy6xtyshnp5hv2qgbypg3rzppy57lyxqcewuxw3g2w6j47ib6cfxixgnl4djwx2almgtez3eksmaei/CONCIERTOS.png</fanart>
+   	<genre></genre>
+	<info></info>
+	<link>http://ignoreme</link>
+	<externallink>https://dl.dropbox.com/s/6t50v1glc5ehiyl/conciertos.xml?dl=0</externallink>	
+</item>-->
+
+
+<!--TV ONLINE-->
+<item>
+   <title>TV ONLINE</title>
+   <thumbnail>https://dl.dropbox.com/s/ywul6b90vjngdmo/tv.png?dl=0</thumbnail>
+   <fanart>http://www89.uptobox.com/d/7iy25tyshnp5hv2qgbypg3rbe7xylir2kavimwbrqgpbkwk4eajlu3e2xscptkne6b6gbhaciyw5kyq/tv.png</fanart>
+   	<genre></genre>
+	<info></info>
+	<link>http://ignoreme</link>
+	<externallink>https://dl.dropbox.com/s/ci3h29rb9vvrv9n/claro.m3u?dl=0</externallink>	
+</item>-->
+
+
 
 
 <item><title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]TV[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
