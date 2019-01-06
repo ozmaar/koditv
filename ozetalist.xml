@@ -38,7 +38,7 @@
 
 
 <item>
-      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]SIEMPRE ACTIVAS[/B][/COLOR]</title>
+      <title>[COLOR lightblue][COLOR red]• [/COLOR] [B]PELICULAS SIEMPRE ACTIVAS[/B][/COLOR]</title>
   <thumbnail>http://icons.iconarchive.com/icons/treetog/i/256/Videos-icon.png</thumbnail>
 <fanart>https://i.imgur.com/V2mymP2.jpg</fanart>
 <link>http://ignoreme</link>
@@ -59,7 +59,7 @@
 
 <!--PELICULAS-->
 <item>
-   <title>PELICULAS</title>
+   <title>PELICULAS POR GENEROS</title>
    <thumbnail>https://dl.dropbox.com/s/ike9a87m9q4aulc/peliculas.png?dl=0</thumbnail>
    <fanart>http://www89.uptobox.com/d/7iy4vtyshnp5hv2qgbypg3tferxwvc5xen7ajz7bte4wtuub42szfzojmd3bflpzkppqzdrhh4xggta/peliculas.png</fanart>
    	<genre></genre>
@@ -175,13 +175,13 @@
 
 
 
-<item><title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]DOCUMENTALES[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
+<item><title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]TV VARIOS SERVIDORES[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/bassfox.png</thumbnail> 
 		<externallink>http://srregio.xyz/Addon1.1/Menus/MenuTelevision.xml</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
 		</item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]Nuevo[/B][/COLOR]  [COLOR lightslategray]  [/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]DOCUMENTALES[/B][/COLOR]  [COLOR lightslategray]  [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryantv.org/adryan/img/tecno.png</thumbnail> 
 		<externallink>https://pastebin.com/raw/052JUt8c</externallink><fanart>http://adryantv.org/adryan/img/fanart.jpg</fanart>
 		</item>
