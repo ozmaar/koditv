@@ -1,322 +1,333 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="http://158.69.52.43:8000/imagenes/2.jpg" group-title="MEXICO",LAS ESTRELLAS
-http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
-#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="UNICABLE" tvg-logo="https://s31.postimg.org/ur2adzgp7/unicable_hd.png" group-title="VARIEDAD",UNICABLE
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 HD" tvg-logo="http://158.69.52.43:8000/imagenes/149.jpg" group-title="MEXICO",CANAL 5 HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
-#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="FORO TV HD" tvg-logo="http://158.69.52.43:8000/imagenes/148.jpg" group-title="MEXICO",FORO TV HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(FORO_TV)/index.m3u8
-#EXTINF:-1 tvg-id="AZCINEMA" tvg-name="AZCINEMA" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_5692_6_14252.png" group-title="PELÍCULAS Y SERIES",AZCINEMA (*)
-http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
-#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="GALAVISION" tvg-logo="http://158.69.52.43:8000/imagenes/6.jpg" group-title="MEXICO",GALAVISION
-http://live.izzitv.mx/Content/HLS/Live/Channel(GALA_TV)/index.m3u8
-#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="GALAVISION HD" tvg-logo="http://158.69.52.43:8000/imagenes/135.jpg" group-title="MEXICO",GALAVISION HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
-#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="https://s32.postimg.org/hnri36zr9/El_Gourmet.png" group-title="VARIEDAD",EL GOURMET
-http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.mx" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://s6.postimg.org/3ku7u2no1/paramount.png" group-title="PELICULAS",PARAMOUNT CHANNEL
-http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
-#EXTINF:-1 tvg-id="sundace channel" tvg-name="SUNDANCE CHANNEL" tvg-logo="http://www.corusent.com/wp-content/uploads/2015/07/logos_tv_paytv_sundance-500x250.png" group-title="PELICULAS",SUNDANCE CHANNEL
-http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC  HD" tvg-logo="http://158.69.52.43:8000/img/201.jpg" group-title="HD",AMC  HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="MILENIO TV" tvg-logo="http://158.69.52.43:8000/imagenes/98.jpg" group-title="MEXICO",MILENIO TV
-http://live.izzitv.mx/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
-#EXTINF:-1 tvg-id="HolaTv.ar" tvg-name="HOLA TV HD" tvg-logo="https://s32.postimg.org/u5dyinul1/hola_revista_logo.png" group-title="HD",HOLA TV HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(HOLA_TV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A3 SERIES" tvg-logo="http://158.69.52.43:8000/imagenes/3236.jpg" group-title="ESPAÑA",A3 SERIES
-http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL" tvg-logo="http://158.69.52.43:8000/img/214.jpg" group-title="SERIES",COMEDY CENTRAL
-http://live.izzitv.mx/Content/HLS/Live/Channel(Comedy_Central)/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES" tvg-logo="https://s6.postimg.org/g7w71cyfl/tnt_series.png" group-title="SERIES",TNT SERIES
-http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT" tvg-logo="https://s31.postimg.org/tq6n2e717/tnt_hd.png" group-title="PELICULAS",TNT HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1 tvg-id="TNT " tvg-name="TNT " tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/tnt_2016_logo.jpg" group-title="PELÍCULAS Y SERIES",TNT (*)
-http://144.217.85.216/streams/src3/lk.m3u8?mxg=U2FsdGVkX1%2BMV2vWTZHhO2IJ%2BYcSI%2F3m0VgLXi4yS4RZhWvfvOoGVBJX23tfdtnxq0%2FsAxNUu8SN2XSPseNTbg%3D%3D
-#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD" tvg-logo="http://158.69.52.43:8000/img/202.jpg" group-title="HD",AXN HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE HD" tvg-logo="https://s32.postimg.org/5w455881h/space.png" group-title="HD",SPACE HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER BROS HD" tvg-logo="https://s32.postimg.org/h5ol61a0l/warner.png" group-title="HD",WARNER BROS HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.mx" tvg-name="CANAL SONY" tvg-logo="https://s6.postimg.org/kbx5tuudt/sony.png" group-title="SERIES",CANAL SONY
-http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFE TIME" tvg-logo="https://s32.postimg.org/pnx0w3bj9/Lifetime_2013.png" group-title="SERIES",LIFE TIME
-http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
-#EXTINF:-1 tvg-id="EEntertainment Television.mx" tvg-name="E! ENTERTAINMENT" tvg-logo="https://s31.postimg.org/pastb879n/E_Milgreen.png" group-title="VARIEDAD",E! ENTERTAINMENT
-http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
-#EXTINF:-1 tvg-id="AE.mx" tvg-name="A&E" tvg-logo="http://158.69.52.43:8000/img/200.jpg" group-title="SERIES",A&E
-http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
-#EXTINF:-1 tvg-id="ISat.ar" tvg-name="I SAT" tvg-logo="https://s31.postimg.org/4f1271fqj/isat_logo_471x201.png" group-title="PELICULAS",I SAT
-http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FUSION" tvg-logo="https://pmcwwd.files.wordpress.com/2016/11/fusion_logo.png" group-title="HD",FUSION
-http://live.izzitv.mx/Content/HLS/Live/Channel(FUSION)/index.m3u8
-#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA" tvg-logo="https://s32.postimg.org/dngoma485/De_pelicula_logo.png" group-title="PELICULAS",DE PELICULA
-http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
-#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN" tvg-logo="https://s31.postimg.org/g07yzagmz/golden_hd.png" group-title="PELICULAS",GOLDEN
-http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://s6.postimg.org/6u8n0jbrl/nuevo_logo_tcm.png" group-title="PELICULAS",TCM
-http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://158.69.52.43:8000/img/1.jpg" group-title="PELICULAS",CINEMAX
-http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA" tvg-logo="https://s32.postimg.org/45ib255t1/2_distrito_comedia.png" group-title="SERIES",DISTRITO COMEDIA
-http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
-#EXTINF:-1 tvg-id="HOLA TV" tvg-name="HOLA TV" tvg-logo="http://tuotrodiario.himgs.com/imagenes/noticias/000/078/782/78838/detail_landscape/logo-holatv1.jpg?1378886676" group-title="ENTRETENIMIENTO",HOLA TV (*)
-http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
-#EXTINF:-1 tvg-id="NIUMEDIA" tvg-name="NIUMEDIA" tvg-logo="https://pbs.twimg.com/profile_images/900787675220848640/sFDN-dbp.jpg" group-title="ENTRETENIMIENTO",NIUMEDIA (W)
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO", ▁ ▂ ▄ ▅ ▆☆EDUARDOCISNEROS☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ INFANTILES* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ INFANTILES* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ INFANTILES* CHANNEL ☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="TiiN.mx" tvg-name="TIIN" tvg-logo="http://158.69.52.43:8000/img/tiin.jpg" group-title="INFANTILES",TIIN
-http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
-#EXTINF:-1 tvg-id="NickJr..mx" tvg-name="NICK JR" tvg-logo="http://158.69.52.43:8000/img/nijr.jpg" group-title="INFANTILES",NICK JR
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="NICKELODEON" tvg-logo="http://158.69.52.43:8000/img/lodeon.jpg" group-title="INFANTILES",NICKELODEON
-http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="BOOMERANG" tvg-logo="http://158.69.52.43:8000/img/boo.jpg" group-title="INFANTILES",BOOMERANG
-http://live.izzitv.mx/Content/HLS/Live/Channel(BOOMERANG)/index.m3u8
-
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO", ▁ ▂ ▄ ▅ ▆☆EDUARDOCISNEROS☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ DEPORTES* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ DEPORTES* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ DEPORTES* CHANNEL ☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC HD" tvg-logo="http://fighterdojo.org/wp-content/uploads/2016/09/ufc-logo.png" group-title="HD",UFC HD
-http://51.255.88.38:8000/live/bernie/bernie/2781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://158.69.52.43:8000/img/615.jpg" group-title="HD",ESPN HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://158.69.52.43:8000/img/609.jpg" group-title="HD",ESPN 2 HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://158.69.52.43:8000/img/610.jpg" group-title="HD",ESPN 3 HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1 tvg-id="F1LatAm.co" tvg-name="F1 HD" tvg-logo="http://158.69.52.43:8000/img/618.jpg" group-title="HD",F1 HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="TDN (MEX)" tvg-logo="http://158.69.52.43:8000/img/584.jpg" group-title="DEPORTES",TDN (MEX)
-http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
-#EXTINF:-1 tvg-id="Tdn.hn" tvg-name="UNIVISION TDN" tvg-logo="http://158.69.52.43:8000/img/585.jpg" group-title="DEPORTES",UNIVISION TDN
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
-#EXTINF:-1 tvg-id="UNIVISION DEPORTES" tvg-name="UNIVISION DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES - SPORTS",UNIVISION DEPORTES (*)
-http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
-#EXTINF:-1 tvg-id="UNIVISION DEPORTES" tvg-name="UNIVISION DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES - SPORTS",UNIVISION DEPORTES (*)
-http://51.255.88.38:8000/live/bernie/bernie/2788.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://158.69.52.43:8000/img/165.jpg" group-title="DEPORTES",NBA TV
-http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
-#EXTINF:-1 tvg-id="BEIN SPORTS" tvg-name="BEIN SPORTS" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="DEPORTES - SPORTS",BEIN SPORTS (*)
-http://144.217.85.216/streams/src1/lk.m3u8?mxg=U2FsdGVkX19lp3bJiogP93GQL8ucYISR4ptg2IeRvTAfZINzz%2FkMn61dss4ouuGRupHiJ2ZAi%2FtIXPEDZqimgw%3D%3D
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" group-title="DEPORTES - SPORTS", T Y C SPORTS (*)
-http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
-#EXTINF:-1 tvg-id="PX SPORTS" tvg-name="PX SPORTS" tvg-logo="http://pxsports.com/wp-content/uploads/2017/03/Logo-Px-Sports-Completo-300x169.png" group-title="DEPORTES - SPORTS",PX SPORTS (*)
-http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master1000k.m3u8
-
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO", ▁ ▂ ▄ ▅ ▆☆EDUARDOCISNEROS☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ DOCUMENTALES* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ DOCUMENTALES* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ DOCUMENTALES* CHANNEL ☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://158.69.52.43:8000/img/nag.jpg" group-title="DOCUMENTALES",NATIONAL GEOGRAPHIC
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NATGEO WILD" tvg-logo="http://158.69.52.43:8000/img/ngeo.jpg" group-title="DOCUMENTALES",NATGEO WILD
-http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TRUTV HD" tvg-logo="https://s32.postimg.org/kjt62nk9h/truu.png" group-title="HD",TRUTV HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://158.69.52.43:8000/img/hst.jpg" group-title="DOCUMENTALES",HISTORY
-http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
-#EXTINF:-1 tvg-id="H2.co" tvg-name="H2 (LA)" tvg-logo="http://158.69.52.43:8000/img/105.jpg" group-title="DOCUMENTALES",H2 (LA)
-http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TLC" tvg-logo="http://i962.photobucket.com/albums/ae103/southpawjosh/tbs_new_zps9divheum.png" group-title="DOCUMENTARY",TBS
-http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
-
-
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO", ▁ ▂ ▄ ▅ ▆☆EDUARDOCISNEROS☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ MUSICAL* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ MUSICAL* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ MUSICAL* CHANNEL ☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="http://158.69.52.43:8000/img/900.jpg" group-title="MUSICA",BANDAMAX
-http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV LIVE" tvg-logo="http://158.69.52.43:8000/img/235.jpg" group-title="MUSICA",MTV LIVE
-http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
-#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="http://158.69.52.43:8000/img/914.jpg" group-title="MUSICA",MTV
-http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
-#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="TELEHIT" tvg-logo="https://s6.postimg.org/es2lit841/Telehit_logo.png" group-title="MUSICA",TELEHIT
-http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
-#EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1" tvg-logo="http://158.69.52.43:8000/img/918.jpg" group-title="MUSICA",VH1
-http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
-#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="RITMOSON" tvg-logo="http://158.69.52.43:8000/img/926.jpg" group-title="MUSICA",RITMOSON
-http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
-
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆OZETA TV☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO", ▁ ▂ ▄ ▅ ▆☆EDUARDOCISNEROS☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-#EXTINF:-1 tvg-id="▁ ▂ ▄ ▅ ▆☆ PELICULAS* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-name="▁ ▂ ▄ ▅ ▆☆ PELICULAS* CHANNEL ☆▆ ▅ ▄ ▂ ▁" tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg" group-title="MEXICO",▁ ▂ ▄ ▅ ▆☆ PELICULAS* CHANNEL ☆▆ ▅ ▄ ▂ ▁
-http://51.255.88.38:8000/EDUARDO//CISNEROS/2041.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Premonition
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/922/566/106625D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Shanghai
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/386/894/116642D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Tmnt (Teenage Mutant Ninja Turtles)
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/697/823/118623D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Puss In Boots
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/121926D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Shrink
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/861/891/125715D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Moll Flanders
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/429/715/126309D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Middleton
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/126607D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Flypaper
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/126608D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Paranormal Activity 2
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/33/460/127502D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Disaster Movie
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/492/227/128606D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",The American
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/199/1022/130806D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Original Sin
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/130856D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Fly Me To The Moon
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/158/803/132036D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Legends Of Valhalla: Thor
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/985/575/132244D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Vamps
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/132266D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Super
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/749/607/132295D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Dark Tide
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/132300D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",The Double
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/132301D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Salvation Boulevard
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/132304D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",The Son Of No One
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/132306D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Ceremony
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/35/523/132316D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Furry Vengeance
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/211/614/134870D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Recipe For Disaster
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/556/871/135650D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Charlie St. Cloud
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/199/1022/136725D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Get Him To The Greek
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/129/71/136731D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Last Night
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/136959D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",The Groomsmen
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/494/582/137124D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Kick-Ass
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/664/79/137157D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",The Monk
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/137642D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Spiders 3d
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/272/926/137666D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Hart&apos;s War
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/921/371/137848D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Open Water
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/220/247/137962D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Devil
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/792/531/137980D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",In His Life: The John Lennon Story
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/665/583/138082D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Wuthering Heights
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/527/567/138087D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Americano
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/144/291/138274D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Atomic Train
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/504/442/138528D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Haywire
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/140040D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Get The Gringo
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/140047D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Immortals
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/140049D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Thunderbolt And Lightfoot
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/359/435/140090D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Cowboys & Aliens
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/496/983/140213D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Omen
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/19/239/140389D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Bandits
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/750/347/140562D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Vallanzasca - Gli Angeli Del Male
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/140636D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Sammy&apos;s Adventures
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/140947D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",The Resident
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/869/431/141151D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Little Fockers
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/684/427/141156D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Megamind
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/157/823/141160D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Mean Girls 2
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/41/745/141169D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",The Secret Of Moonacre
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/143894D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Rabbit Hole
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/143979D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q8205u8tg89vweg/8.jpg?dl=1" group-title="PREMIER IPTV DOB",Serendipity
-http://moviecity-i.akamaihd.net/i/LongForm/MP4/144071D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TdloX7UFIKM/hqdefault.jpg" group-title="PELÍCULAS",***PELICULAS CINEARGTV.BLOGSPOT.COM***
-http://streaming203.radionomy.com:80/City-Dance-Radio
-
-
-
-#EXTINF:-1 tvg-id="SI NO DESPIERTO" tvg-name="SI NO DESPIERTO" tvg-logo="https://1yazat78t1q1ticyv3i8g9il-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/movie169_head.png" group-title="PELÍCULAS",SI NO DESPIERTO
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:307-Before_Falli.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LA BELLA Y LA BESTIA" tvg-name="LA BELLA Y LA BESTIA" tvg-logo="https://www.ecartelera.com/carteles/9500/9524/007_p.jpg" group-title="PELÍCULAS",LA BELLA Y LA BESTIA
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:34-La_Bella_y_la_Bestia.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="QUE LE PASO A LUNES" tvg-name="QUE LE PASO A LUNES" tvg-logo="http://www.cliver.tv/img/peliculas/1056_min.jpg" group-title="PELÍCULAS",QUE LE PASO A LUNES
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:334-Que_le_paso_a_Lunes.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IT" tvg-name="IT" tvg-logo="http://www.retornoanime.com/wp-content/uploads/2017/03/eso_02.jpg" group-title="PELÍCULAS",IT
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DEATH NOTE" tvg-name="DEATH NOTE" tvg-logo="http://ramenparados.com/wp-content/uploads/2016/09/death-note-light-up-the-new-world-2016-11-1000x600.jpg" group-title="PELÍCULAS",DEATH NOTE
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:328-Death_Note.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ANNABELLE 2" tvg-name="ANNABELLE 2" tvg-logo="http://www.procinal.com.co/sites/default/files/imagecache/pagina_pelicula/pelicula/annabelle.jpg" group-title="PELÍCULAS",ANNABELLE 2
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:321-Annabelle_2_La_creacion.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RAPIDOS Y FURIOSOS 8" tvg-name="RAPIDOS Y FURIOSOS 8" tvg-logo="http://image.tmdb.org/t/p/w396/iNpz2DgTsTMPaDRZq2tnbqjL2vF.jpg" group-title="PELÍCULAS",RAPIDOS Y FURIOSOS 8
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:29-Rapido_y_Furioso_8.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EL PLANETA DE LOS SIMIOS" tvg-name="EL PLANETA DE LOS SIMIOS" tvg-logo="http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/filefield_paths/poster_simios_fecha.jpg" group-title="PELÍCULAS",EL PLANETA DE LOS SIMIOS
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:321-Annabelle_2_La_creacion.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LA MOMIA" tvg-name="LA MOMIA" tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/17/04/11/09/51/221611.jpg" group-title="PELÍCULAS",LA MOMIA
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:4-La_momia.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SPIDERMAN DE REGRESO A CASA" tvg-name="SPIDERMAN DE REGRESO A CASA" tvg-logo="https://starwlog.files.wordpress.com/2017/06/nuevo-poster-de-spiderman-de-regreso-a-casa.jpg?resize=480%2C691" group-title="PELÍCULAS",SPIDERMAN DE REGRESO A CASA
-http://relaywowza2.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:0-Spider_Man_homecoming.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LIFE VIDA INTELIGENTE" tvg-name="LIFE VIDA INTELIGENTE" tvg-logo="http://www.dosismedia.com/wp-content/uploads/2017/03/life-vida-inteligente-soundtrack.jpg" group-title="PELÍCULAS",LIFE VIDA INTELIGENTE
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:6-Life_Vida_Inteligente.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CHIPS PATRULLA MOTORIZADA" tvg-name="CHIPS PATRULLA MOTORIZADA" tvg-logo="http://www.dosismedia.com/wp-content/uploads/2017/01/patrulla-motorizada-recargada-ch-1.jpg" group-title="PELÍCULAS",CHIPS PATRULLA MOTORIZADA
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:8-CHIPS_Patrulla_Motorizada_Recargada.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NUNCA DIGAS SU NOMBRE" tvg-name="NUNCA DIGAS SU NOMBRE" tvg-logo="https://i0.wp.com/periodistas-es.com/wp-content/uploads/nunca-digas-su-nombre-cartel.jpg?fit=294%2C416" group-title="PELÍCULAS",NUNCA DIGAS SU NOMBRE
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:9-Nunca_digas_su_nombre.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ALIEN COVENANT" tvg-name="ALIEN COVENANT" tvg-logo="https://i.pinimg.com/originals/ce/30/e9/ce30e924c47a299c125580c9a7c7a312.png" group-title="PELÍCULAS",ALIEN COVENANT
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:235-Alien_Covenant.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HUYE" tvg-name="HUYE" tvg-logo="http://www.cinevistablog.com/wp-content/uploads/2017/04/huye-get-out-pelicula-de-horror-y-misterio-exito-de-taquilla-y-en-sundance_opt2_.jpg" group-title="PELÍCULAS",HUYE
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:18-Huye.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LA RAZON DE ESTAR CONTIGO" tvg-name="LA RAZON DE ESTAR CONTIGO" tvg-logo="http://www.rocalibros.com/archivos/imagenes/mayores/3170.jpg" group-title="PELÍCULAS",LA RAZON DE ESTAR CONTIGO
-http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:30-La_razon_de_estar_contigo.mp4/playlist.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="USA | 9452 HBO Zone HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Zone_logo.png" group-title="Dish USA",USA | 9452 HBO Zone HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/422.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="Dish USA | 301 HBO2 East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_2_HD_Logo_Poland.png" group-title="Dish USA",Dish USA | 301 HBO2 East HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/391.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Dish USA | 310 Cinemax East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/cinemax.png" group-title="Dish USA",Dish USA | 310 Cinemax East HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/365.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Dish USA | 319 Showtime Eaest HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/showtime.png" group-title="Dish USA",Dish USA | 319 Showtime Eaest HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/358.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Dish USA | 354 Starz Comedy HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/starz%20comedi.png" group-title="Dish USA",Dish USA | 354 Starz Comedy HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dish USA | 142 ESPNews HD*" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPNNEWS.png" group-title="Sports",Dish USA | 142 ESPNews HD*
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/439.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="Dish USA |  9456 HBO East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_HD.png" group-title="Dish USA",Dish USA |  9456 HBO East HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/389.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Dish USA | 9480 Showtime2 East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/showtime%202.png" group-title="Dish USA",Dish USA | 9480 Showtime2 East HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/363.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="Dish USA | 9508 NBA-TV HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/nba.png" group-title="Dish USA",Dish USA | 9508 NBA-TV HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/364.m3u8
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Dish USA | 9512 Showtime West HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/showtime.png" group-title="Dish USA",Dish USA | 9512 Showtime West HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/362.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="Dish USA | 9430 TruTV HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TruTV_HD.png" group-title="Dish USA",Dish USA | 9430 TruTV HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6468.m3u8
+#EXTINF:-1 tvg-id="FOX50.us" tvg-name="NEWS | Fox 5 News (Washington DC)" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOX5.png" group-title="Dish USA",NEWS | Fox 5 News (Washington DC)
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6480.m3u8
+#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="NEWS | WGN 9 News (Chicago)" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CHICAGO.png" group-title="Dish USA",NEWS | WGN 9 News (Chicago)
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6472.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="1474 HBO Family HD Latino." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(30).jpg" group-title="MEXICO",1474 HBO Family HD Latino.
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6534.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="SKY  | 228 Distrito Comedy" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/928400815_DistritoComedia.png.e94692cebd4eb064dbaa7158e8ff45a4.png" group-title="MEXICO",SKY  | 228 Distrito Comedy
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1069.m3u8
+#EXTINF:-1 tvg-id="FoxComedy.co" tvg-name="1465 FOX Comedy HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(29).jpg" group-title="MEXICO",1465 FOX Comedy HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6536.m3u8
+#EXTINF:-1 tvg-id="Canal Unicable (México)" tvg-name="1208 Unicable HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(39).jpg" group-title="MEXICO",1208 Unicable HD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6537.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="1419 TNT FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(40).jpg" group-title="MEXICO",1419 TNT FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAN | 131 TVN" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TVN.jpg" group-title="Panama",PAN | 131 TVN
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6612.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Special Events | Fighting Channel World HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UFCNetwork.png" group-title="Special Events / PPVs",Special Events | Fighting Channel World HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6721.m3u8
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="SPORTS | TDN FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/tdn.jpg" group-title="Deportes Calientes",SPORTS | TDN FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6846.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFICIONADOS IZZI HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AFIZZI.jpg" group-title="Special Events / PPVs",AFICIONADOS IZZI HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6861.m3u8
+#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="Golden Premiere FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GOLDENPREMIERE.jpg" group-title="Channels FHD",Golden Premiere FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6865.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Family | Nick México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK.png" group-title="Family / Kids",Family | Nick México FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6874.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Family | Disney Kids México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_kids_hd_logo.png" group-title="Family / Kids",Family | Disney Kids México FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6875.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Family | Cartoon Network México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CARTON.png" group-title="Family / Kids",Family | Cartoon Network México FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6870.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Family | Disney Channel México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Disney_channel_hd.png" group-title="Family / Kids",Family | Disney Channel México FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6871.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Family | Disney JR FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/DISNEYJR.png" group-title="Family / Kids",Family | Disney JR FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6872.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Family | Disney XD HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Disney-XD.png" group-title="Family / Kids",Family | Disney XD HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6873.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family  FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Family_logo.png" group-title="Channels FHD",HBO Family  FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6867.m3u8
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_HD.png" group-title="Channels FHD",HBO FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6887.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Plus.png" group-title="Channels FHD",HBO Plus FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6886.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Animal_Planet_HD.png" group-title="Channels FHD",Animal Planet FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6869.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Channel_HD_2007.png" group-title="Channels FHD",Discovery FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6868.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/The_Learning_Channel_HD.png" group-title="Channels FHD",TLC FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6877.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TNT%20SERIES.png" group-title="Channels FHD",TNT Series FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6876.m3u8
+#EXTINF:-1 tvg-id="FoxLifeLatinAmerica.pa" tvg-name="Canal FOX FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOX%20HD.png" group-title="Channels FHD",Canal FOX FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/9298.m3u8
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="FOX Premium Family  FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOXFAMILI.png" group-title="Channels FHD",FOX Premium Family  FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6879.m3u8
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="FOX Premium Comedy FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOXCOMEDY.png" group-title="Channels FHD",FOX Premium Comedy FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6883.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery H&h FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Home_&_Health_HD.png" group-title="Channels FHD",Discovery H&h FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT  | Rai Italia HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RAIITALIA.png" group-title="Italia",IT  | Rai Italia HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7007.m3u8
+#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name="GOLDEN Plus FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GoldenPlus.png" group-title="Channels FHD",GOLDEN Plus FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7010.m3u8
+#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="Dish USA | TELEMUNDO 52" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Dish USA",Dish USA | TELEMUNDO 52
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7405.m3u8
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="SPORTS | ESPN 3 HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(10).jpg" group-title="Sports",SPORTS | ESPN 3 HD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT  | TeleArena" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELEARENA.jpg" group-title="Italia",IT  | TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TBS_HD.png" group-title="Channels FHD",TBS FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT  | Rai Italia SD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RAIITALIA.png" group-title="Italia",IT  | Rai Italia SD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7254.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="RD | AzCorazon HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(22).jpg" group-title="Republica Dominicana",RD | AzCorazon HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/446.m3u8
+#EXTINF:-1 tvg-id="AztecaMundo.mx" tvg-name="RD | AzMundo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(23).jpg" group-title="Republica Dominicana",RD | AzMundo
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | Telemicro RD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(24).jpg" group-title="Republica Dominicana",RD | Telemicro RD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/443.m3u8
+#EXTINF:-1 tvg-id="c4241b3ec4c4f18669e038c123ee9671" tvg-name="RD | CineDinamite" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(25).jpg" group-title="Republica Dominicana",RD | CineDinamite
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/280.m3u8
+#EXTINF:-1 tvg-id="RcnNovelas.co" tvg-name="RD | RCN Novelas HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(2).jpg" group-title="Republica Dominicana",RD | RCN Novelas HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/237.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="RD | CineLatino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(11).jpg" group-title="Republica Dominicana",RD | CineLatino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RAIPREMIUM.png" group-title="Italia",IT: Rai Premium HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8369.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="AE FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AE.png" group-title="Channels FHD",AE FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7745.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/discovery-theater-hd.png" group-title="Channels FHD",DISCOVERY THEATHER FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8370.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name=" HISTORY FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HIS.jpg" group-title="Channels FHD", HISTORY FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8372.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="ID FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Investigation_Discovery_HD.png" group-title="Channels FHD",ID FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8371.m3u8
+#EXTINF:-1 tvg-id="MaxPrime.mx" tvg-name="DISH MEX | MP" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MULTIP.png" group-title="Latinos",DISH MEX | MP
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1130.m3u8
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="PR | NBC PR" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NBC%20NY.png" group-title="Puerto Rico",PR | NBC PR
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC HD Los Angeles" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Abc_hd.png" group-title="Dish USA",USA | ABC HD Los Angeles
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/450.m3u8
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FOX Premium Cinema HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CINEMAA.png" group-title="Channels FHD",FOX Premium Cinema HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/9983.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="RD | DIiscovery Turbo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Turbo_2014_3D.png" group-title="Republica Dominicana",RD | DIiscovery Turbo
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/9985.m3u8
+#EXTINF:-1 tvg-id="Canal Discovery Turbo Latinoamérica" tvg-name="RD | Discovery Turbo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(12).jpg" group-title="Republica Dominicana",RD | Discovery Turbo
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RD | TCM Latino America" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RCM.png" group-title="Republica Dominicana",RD | TCM Latino America
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10075.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="RD | Discovery Theather FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/discovery-theater-hd.png" group-title="Republica Dominicana",RD | Discovery Theather FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10038.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Dish Mex | XHIMT Canal 7 TV Azteca" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/azteca-7-hd.jpg" group-title="Latinos",Dish Mex | XHIMT Canal 7 TV Azteca
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1076.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="DISH MEX | AZTECA Corazon Latino America" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/aztecacorazon.jpg" group-title="Latinos",DISH MEX | AZTECA Corazon Latino America
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1074.m3u8
+#EXTINF:-1 tvg-id="AztecaMundo.mx" tvg-name="DISH MEX | Azteca Mundo Lat" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MUNDO-logo-620x300.png" group-title="Latinos",DISH MEX | Azteca Mundo Lat
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1073.m3u8
+#EXTINF:-1 tvg-id="AztecaNoticias.mx" tvg-name="DISH MEX | AZTECA A+" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/A+.png" group-title="Latinos",DISH MEX | AZTECA A+
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1072.m3u8
+#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="DISH MEX | Azteca Siete." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SIETE.jpg" group-title="Latinos",DISH MEX | Azteca Siete.
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | BABY TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Baby_TV.png" group-title="Latinos",DISH MEX | BABY TV
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | BOOMERANG" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BOOMERANG.png" group-title="Latinos",DISH MEX | BOOMERANG
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | CARTOON NETWORK" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CARTON.png" group-title="Latinos",DISH MEX | CARTOON NETWORK
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1142.m3u8
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="Dish Mex | History Channel Lat" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HIS.jpg" group-title="Latinos",Dish Mex | History Channel Lat
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1052.m3u8
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="Dish Mex | MAX Prime" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MAX%20PRIME.png" group-title="Latinos",Dish Mex | MAX Prime
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | NICK" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK.png" group-title="Latinos",DISH MEX | NICK
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1093.m3u8
+#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name="RD | GOLDEN HD Plus" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GoldenPlus.png" group-title="Republica Dominicana",RD | GOLDEN HD Plus
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10532.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="RD | HBO Plus HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Plus.png" group-title="Republica Dominicana",RD | HBO Plus HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10531.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="RD | ANIMALPLANET" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Animal_Planet_HD.png" group-title="Republica Dominicana",RD | ANIMALPLANET
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10533.m3u8
+#EXTINF:-1 tvg-id="Canal 2 de México (Canal Las Estrellas - XEW)" tvg-name="Channels FHD | Las Estrellas XEW" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESTRELLA.jpg" group-title="Channels FHD",Channels FHD | Las Estrellas XEW
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEPELICULA" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/DePeliculaHD-1.png" group-title="Channels FHD",DEPELICULA
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10564.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="RD | ESPNPLUS HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPN_Plus.png" group-title="Republica Dominicana",RD | ESPNPLUS HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10604.m3u8
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="SPORTS | ESPN HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPNN.png" group-title="Sports",SPORTS | ESPN HD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10621.m3u8
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="626 CNNE" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(37).jpg" group-title="MEXICO",626 CNNE
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/276.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Family | Discovery Kids" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(14).jpg" group-title="Family / Kids",Family | Discovery Kids
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/273.m3u8
+#EXTINF:-1 tvg-id="Disney.co" tvg-name="Family | Disney" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(13).jpg" group-title="Family / Kids",Family | Disney
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/271.m3u8
+#EXTINF:-1 tvg-id="DisneyJrNorte.co" tvg-name="Family | Disney Jr" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(15).jpg" group-title="Family / Kids",Family | Disney Jr
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/270.m3u8
+#EXTINF:-1 tvg-id="DisneyXd.co" tvg-name="Family | Disney XD Norte" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(16).jpg" group-title="Family / Kids",Family | Disney XD Norte
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/269.m3u8
+#EXTINF:-1 tvg-id="FoxInternational.mx" tvg-name="RD | FOX Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(7).jpg" group-title="Republica Dominicana",RD | FOX Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/264.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="SPORTS | FOX Sports 2 FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(5).jpg" group-title="Sports",SPORTS | FOX Sports 2 FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/256.m3u8
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="SPORTS | FOX Sports 3 FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(6).jpg" group-title="Sports",SPORTS | FOX Sports 3 FHD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/255.m3u8
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="SPORTS | FOX Sports HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(4).jpg" group-title="Sports",SPORTS | FOX Sports HD Latino
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/257.m3u8
+#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="Dish USA | TELEMUNDO 47 NY FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Channels FHD",Dish USA | TELEMUNDO 47 NY FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraFilm" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraFilm
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraMex" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraMex
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraCine" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraCine
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraCineKids" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraCineKids
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraFamilia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraFamilia
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11348.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraFiesta" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraFiesta
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraLuna" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraLuna
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraMacho" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraMacho
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraClasico" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraClasico
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraBanda" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraBanda
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraDocu" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraDocu
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraEntrainment" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraEntrainment
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Cincomas" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CINCOMAS.jpg" group-title="Ultra Premium",Ultra | Cincomas
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Mi planeta" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/planeta-tierra-espacio-pintado-por-peluche13-9802905.jpg" group-title="Ultra Premium",Ultra | Mi planeta
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Orbitatv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ORBITAA.jpg" group-title="Ultra Premium",Ultra | Orbitatv
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Romanc1" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ROMANCE.png" group-title="Ultra Premium",Ultra | Romanc1
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Gran Cine" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GRANCINE.png" group-title="Ultra Premium",Ultra | Gran Cine
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Super Canal" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SUPERC.jpg" group-title="Ultra Premium",Ultra | Super Canal
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Altavision" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ALTAVISION.png" group-title="Ultra Premium",Ultra | Altavision
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Fix and Foxi" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FIX.png" group-title="Ultra Premium",Ultra | Fix and Foxi
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Insight TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/insight_logo__twocolumncontent.png" group-title="Ultra Premium",Ultra | Insight TV
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Lasusa" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/LaSusa-and-Deb-Law-Offices-social-logo.jpg" group-title="Ultra Premium",Ultra | Lasusa
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Mooltv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MOOLTV.png" group-title="Ultra Premium",Ultra | Mooltv
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | 24 horas" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/24_Horas_TVN_alt.png" group-title="Ultra Premium",Ultra | 24 horas
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Aymsports" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AYM.jpg" group-title="Ultra Premium",Ultra | Aymsports
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | C7 Jalisco" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/C7.jpg" group-title="Ultra Premium",Ultra | C7 Jalisco
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Canal 44" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Canal_44_de_Guadalajara_Logo.png" group-title="Ultra Premium",Ultra | Canal 44
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | CbTv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CBTV.png" group-title="Ultra Premium",Ultra | CbTv
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Cubaplay" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CUBAPLAY.png" group-title="Ultra Premium",Ultra | Cubaplay
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Dominican View" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/DOMINICAN.png" group-title="Ultra Premium",Ultra | Dominican View
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Enlace" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Enlace_logo.png" group-title="Ultra Premium",Ultra | Enlace
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Estrellatv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESTRE.png" group-title="Ultra Premium",Ultra | Estrellatv
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | france24hd" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/France24.png" group-title="Ultra Premium",Ultra | france24hd
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Naturevision" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NATURE.png" group-title="Ultra Premium",Ultra | Naturevision
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Pacifico TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PACIFICO.jpg" group-title="Ultra Premium",Ultra | Pacifico TV
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Senal de vida" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SE%c3%91AL.png" group-title="Ultra Premium",Ultra | Senal de vida
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Tarima" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TARIMA.png" group-title="Ultra Premium",Ultra | Tarima
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Tele el Salvador" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELESALVADOR.jpg" group-title="Ultra Premium",Ultra | Tele el Salvador
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Telekaribe" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Telecaribe_HD.png" group-title="Ultra Premium",Ultra | Telekaribe
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | telemicro" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Telemicro_2002_1.png" group-title="Ultra Premium",Ultra | telemicro
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Telen" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/teleten_business_name_desing.png" group-title="Ultra Premium",Ultra | Telen
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra | Zeemundo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ZEE_MUNDO_2017.png" group-title="Ultra Premium",Ultra | Zeemundo
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra |Son life spanish" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/sbnlogo.jpg" group-title="Ultra Premium",Ultra |Son life spanish
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11449.m3u8
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CL | CDF Premium HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CDF.png" group-title="Chile",CL | CDF Premium HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11635.m3u8
+#EXTINF:-1 tvg-id="Fox Deportes en Español HDTV (U.S.) (FXDEHD) US" tvg-name="CL | ChileVision" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CHILEVISION.png" group-title="Chile",CL | ChileVision
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11640.m3u8
+#EXTINF:-1 tvg-id="HBO Family HDTV (East) (HBOFHD) US" tvg-name="CL | Mega Hd" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MEGA.png" group-title="Chile",CL | Mega Hd
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11637.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel US" tvg-name="CL | Trece HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/13C.png" group-title="Chile",CL | Trece HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11644.m3u8
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CL | TVN HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TVN.jpg" group-title="Chile",CL | TVN HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11642.m3u8
+#EXTINF:-1 tvg-id="VePlusTv.co" tvg-name="CL | CNN" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CNNU.png" group-title="Chile",CL | CNN
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11643.m3u8
+#EXTINF:-1 tvg-id="TycSports.ar" tvg-name="SPORTS | TYC Sports FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TYCSPORTS.png" group-title="Sports",SPORTS | TYC Sports FHD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11783.m3u8
+#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="PE | America Peru" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/america-tv.png" group-title="Panama",PE | America Peru
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE | Frecuencia Latina" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FRECU.png" group-title="Peru",PE | Frecuencia Latina
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11589.m3u8
+#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="PE | Panamericana" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PANAMERICANA.png" group-title="Peru",PE | Panamericana
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE | Peru Magico HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Peru_Magico_2016.png" group-title="Peru",PE | Peru Magico HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11608.m3u8
+#EXTINF:-1 tvg-id="Animal Planet IT" tvg-name="PE | TV Peru HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TVPERU.png" group-title="Peru",PE | TV Peru HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicales | tarima tv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TARIMA.png" group-title="Musicales",Musicales | tarima tv
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicales | Ultrabanda" tvg-logo="["http:\/\/209.126.103.127\/vemox\/ultra\/channel.php?id=ultrabanda&calidad=4"]" group-title="Musicales",Musicales | Ultrabanda
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicales | Ultrafiesta" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRAFIESTA.png" group-title="Musicales",Musicales | Ultrafiesta
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11831.m3u8
+#EXTINF:-1 tvg-id="CityTV.ca" tvg-name="CO | Caracol" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CARACOL.png" group-title="Colombia",CO | Caracol
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11201.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO | RCN HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Rcn_hd_2016.png" group-title="Colombia",CO | RCN HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Tele Vida" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELEVIDA.png" group-title="Colombia",CO | Tele Vida
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11189.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="CO | Teleantioqia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Teleantioquia.png" group-title="Colombia",CO | Teleantioqia
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11205.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="CO | Telemedillin" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELEMEDELLIN.png" group-title="Colombia",CO | Telemedillin
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicales | HTV-B" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Htv_logo.svg.png" group-title="Musicales",Musicales | HTV-B
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicales | MTV HITS HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MTVHITS.png" group-title="Musicales",Musicales | MTV HITS HD
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Musicales | VH1 CLASSIC" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/VH1C.png" group-title="Musicales",Musicales | VH1 CLASSIC
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA PELUCHE" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PELUCHE.jpg" group-title="24/7 Live Stream",LA FAMILIA PELUCHE
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MALCOLM EL DE ENMEDIO" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MALCL.jpg" group-title="24/7 Live Stream",MALCOLM EL DE ENMEDIO
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROSA DE GUADALUPE" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/LA%20ROSA.jpg" group-title="24/7 Live Stream",ROSA DE GUADALUPE
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RUGRATS" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Rugrats_Logo.png" group-title="24/7 Live Stream",RUGRATS
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11876.m3u8
+#EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-name="PPVS |  UFC ™TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UFCNetwork.png" group-title="Special Events / PPVs",PPVS |  UFC ™TV
+http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11894.m3u8
