@@ -1,555 +1,803 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Dish USA  | 4670 Comedy Central East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Comedy_Central_HD.png" group-title="Dish USA",Dish USA  | 4670 Comedy Central East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/899.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Dish USA | 4670 Comedy Central Local HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Comedy_Central_HD.png" group-title="Dish USA",Dish USA | 4670 Comedy Central Local HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/412.m3u8
-#EXTINF:-1 tvg-id="I402.68049.schedulesdirect.org" tvg-name="Dish USA | 4798 Unvision  US HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UVN-LA-logo-trans.jpg" group-title="Dish USA",Dish USA | 4798 Unvision  US HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/973.m3u8
-#EXTINF:-1 tvg-id="I407.17983.schedulesdirect.org" tvg-name="Dish USA | 4808 Telemundo Los Angeles" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Dish USA",Dish USA | 4808 Telemundo Los Angeles
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/619.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="Dish USA | 6931 USA Network  HD Local" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Usa_network_hd.png" group-title="Dish USA",Dish USA | 6931 USA Network  HD Local
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/580.m3u8
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="Dish USA | 8100 ABC NY HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Abc_hd.png" group-title="Dish USA",Dish USA | 8100 ABC NY HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/483.m3u8
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="Dish USA | 8101 NBC .NY" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NBC%20NY.png" group-title="Dish USA",Dish USA | 8101 NBC .NY
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/628.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="Dish USA | 8101 NBC NY" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NBC%20NY.png" group-title="Dish USA",Dish USA | 8101 NBC NY
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/484.m3u8
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="Dish USA | 8102 CBS" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CBS%20N.png" group-title="Dish USA",Dish USA | 8102 CBS
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/629.m3u8
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="Dish USA | 8102 CBS New York East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CBS%20N.png" group-title="Dish USA",Dish USA | 8102 CBS New York East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/668.m3u8
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="Dish USA | 8102 CBS-NY" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CBS%20N.png" group-title="Dish USA",Dish USA | 8102 CBS-NY
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/482.m3u8
-#EXTINF:-1 tvg-id="I402.68049.schedulesdirect.org" tvg-name="Dish USA | 828 Univision San Diego" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UVN-LA-logo-trans.jpg" group-title="Dish USA",Dish USA | 828 Univision San Diego
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/895.m3u8
-#EXTINF:-1 tvg-id="I407.17983.schedulesdirect.org" tvg-name="Dish USA | 835 Telemundo East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Dish USA",Dish USA | 835 Telemundo East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/966.m3u8
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="Dish USA | 841 RCN HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Rcn_hd_2016.png" group-title="Dish USA",Dish USA | 841 RCN HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/351.m3u8
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Dish USA | 842 Caracol HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/caracol.png" group-title="Dish USA",Dish USA | 842 Caracol HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/352.m3u8
-#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="Dish USA  | 915 PSB East" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PSV.png" group-title="Dish USA",Dish USA  | 915 PSB East
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/406.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="Dish USA | 9431 USA Network HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Usa_network_hd.png" group-title="Dish USA",Dish USA | 9431 USA Network HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/367.m3u8
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="Dish USA | 9432 SySy HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SYFY.png" group-title="Dish USA",Dish USA | 9432 SySy HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/410.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="Dish USA | 9436 CNN New York HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CNNU.png" group-title="Dish USA",Dish USA | 9436 CNN New York HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/672.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="Dish  USA | 9436 CNN USA HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CNNU.png" group-title="Dish USA",Dish  USA | 9436 CNN USA HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dish USA | 9452 HBO Zone HD." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Zone_logo.png" group-title="Dish USA",Dish USA | 9452 HBO Zone HD.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/524.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="Dish USA | 9459  HBO HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_HD.png" group-title="Dish USA",Dish USA | 9459  HBO HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/548.m3u8
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="Dish USA | 9461 HGTV East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/hgtv-logo.jpg" group-title="Dish USA",Dish USA | 9461 HGTV East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/700.m3u8
-#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="Dish USA | 9470 LifeTime HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Lifetime_us_hd.png" group-title="Dish USA",Dish USA | 9470 LifeTime HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/411.m3u8
-#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="Dish USA | 9474 E! East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/E.png" group-title="Dish USA",Dish USA | 9474 E! East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/378.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-name="Dish USA | 9475 FX HD Local" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Fxhd.png" group-title="Dish USA",Dish USA | 9475 FX HD Local
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/382.m3u8
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="Dish USA | 9499 TBS East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TBS_HD.png" group-title="Dish USA",Dish USA | 9499 TBS East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/371.m3u8
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="Dish USA | 9611 Bein Sports" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/beIN-Sports-Logo.jpg" group-title="Sports",Dish USA | 9611 Bein Sports
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/531.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-name="Dish USA | CBSN HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CBS%20N.png" group-title="Dish USA",Dish USA | CBSN HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dish USA | Spike HD." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/spike.png" group-title="Dish USA",Dish USA | Spike HD.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/375.m3u8
-#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="Dish USA | TELEMUNDO  47 NY HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Dish USA",Dish USA | TELEMUNDO  47 NY HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1066.m3u8
-#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="Dish USA | TELEMUNDO  MIAMI HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Dish USA",Dish USA | TELEMUNDO  MIAMI HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7776.m3u8
-#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="Dish USA | TELEMUNDO PHOENIX HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Dish USA",Dish USA | TELEMUNDO PHOENIX HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7255.m3u8
-#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="Dish USA | WGN News Chigago" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/WGN.png" group-title="Dish USA",Dish USA | WGN News Chigago
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/451.m3u8
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="Dish USA. | 131 AMC East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AMC.png" group-title="Dish USA",Dish USA. | 131 AMC East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dish USA. | 170 Nicklodeon East" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK.png" group-title="Dish USA",Dish USA. | 170 Nicklodeon East
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/466.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Dish USA. | 193 Discovery Science" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_science_new_logo_2017.png" group-title="Dish USA",Dish USA. | 193 Discovery Science
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/538.m3u8
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="Dish USA. | 4550 Nat Geo HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NATGEOO.png" group-title="Dish USA",Dish USA. | 4550 Nat Geo HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/552.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Dish USA. | 4596 Animal Planet HD" tvg-logo="[https://vodtv.dyndns.tv/vod/PICONS/Animal_Planet_HD.png" group-title="Dish USA",Dish USA. | 4596 Animal Planet HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/661.m3u8
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="Dish USA.| 8100 ABC New York HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ABC%20NY.jpg" group-title="Dish USA",Dish USA.| 8100 ABC New York HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/660.m3u8
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="Dish Usa  | 139 TBS HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TBS_HD.png" group-title="Dish USA",Dish Usa  | 139 TBS HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/713.m3u8
-#EXTINF:-1 tvg-id="I230.67375.schedulesdirect.org" tvg-name="Dish Usa  | 4608 DIY NETWORK HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/DIY.png" group-title="Dish USA",Dish Usa  | 4608 DIY NETWORK HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/947.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dish Usa | Unimas 31 NY HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/unimas.png" group-title="Dish USA",Dish Usa | Unimas 31 NY HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1155.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="Premium Channels | 304 HBO 2 West" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_2_HD_Logo_Poland.png" group-title="Dish USA",Premium Channels | 304 HBO 2 West
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/987.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="Premium Channels | 307 HBO Comedy East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Comedy_logo.png" group-title="Dish USA",Premium Channels | 307 HBO Comedy East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/390.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="Premium Channels | 307 HBO Comedy East. HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Comedy_logo.png" group-title="Dish USA",Premium Channels | 307 HBO Comedy East. HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/732.m3u8
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="Premium Channels | 308 HBO Zone HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Zone_logo.png" group-title="Dish USA",Premium Channels | 308 HBO Zone HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/991.m3u8
-#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="Premium Channels | 312 MoreMAX HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/moremaxhd_2400_color_dark_light.png" group-title="Dish USA",Premium Channels | 312 MoreMAX HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/997.m3u8
-#EXTINF:-1 tvg-id="ThrillerMax.us" tvg-name="Premium Channels | 312  MovieMAX HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MOVIES.png" group-title="Dish USA",Premium Channels | 312  MovieMAX HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/998.m3u8
-#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="Premium Channels | 313 ActionMAX HD." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Action_Max_logo.png" group-title="Dish USA",Premium Channels | 313 ActionMAX HD.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/999.m3u8
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="Premium Channels | 350 Starz East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/star%20edge.png" group-title="Dish USA",Premium Channels | 350 Starz East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/356.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="Premium Channels | 9420 TNT HD East" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TNT.jpg" group-title="Dish USA",Premium Channels | 9420 TNT HD East
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/579.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Premium Channels | 9458 Cinemax HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CINEMAX.jpg" group-title="Dish USA",Premium Channels | 9458 Cinemax HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/996.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Premium Channels | 9480 ShowTime 2 East" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/showtime%202.png" group-title="Dish USA",Premium Channels | 9480 ShowTime 2 East
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/994.m3u8
-#EXTINF:-1 tvg-id="WWE.us" tvg-name="SPORTS | WWE HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/WWENetworkLogo.png" group-title="Sports",SPORTS | WWE HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/421.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Dish Mex | Canal 2 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESTRELLA.jpg" group-title="Latinos",Dish Mex | Canal 2 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/298.m3u8
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Dish Mex | Azteca corazón." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/aztecacorazon.jpg" group-title="Latinos",Dish Mex | Azteca corazón.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1162.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="SPORTS | Claro Sports" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CLAROS.png" group-title="Deportes Calientes",SPORTS | Claro Sports
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/277.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="AR | Fox Sports 1 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FS1.png" group-title="Deportes Calientes",AR | Fox Sports 1 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/543.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="AR | Fox Sports 2 HD." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOX%202.png" group-title="Argentina",AR | Fox Sports 2 HD.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/544.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="SPORTS | 9426 NFL Network HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NFLNE.jpg" group-title="Sports",SPORTS | 9426 NFL Network HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/708.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="SPORTS | 9434 MLB Network HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MLB%20NE.png" group-title="Sports",SPORTS | 9434 MLB Network HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/703.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="SPORTS | 9508 NBA TV HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/nba.png" group-title="Sports",SPORTS | 9508 NBA TV HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/706.m3u8
-#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="SPORTS | 9556 Univision Deportes HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Univision_Deportes.png" group-title="Sports",SPORTS | 9556 Univision Deportes HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS | 9560 ESPN Depotes HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Espn_deportes.svg.png" group-title="Sports",SPORTS | 9560 ESPN Depotes HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1067.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="SPORTS  | 141 ESPN US HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPNN.png" group-title="Sports",SPORTS  | 141 ESPN US HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/682.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="SPORTS | 154 NHL Network HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Nhlnetwork.png" group-title="Sports",SPORTS | 154 NHL Network HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1071.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Special Events | 1571 UFC Network" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UFCNetwork.png" group-title="Special Events / PPVs",Special Events | 1571 UFC Network
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/2235.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="SPORTS | 158 CBS Sports Network HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CBSSNlogo637xpagetop.jpg" group-title="Sports",SPORTS | 158 CBS Sports Network HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/669.m3u8
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="SPORTS | 392 BeIn Sports USA" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/beIN-Sports-Logo.jpg" group-title="Sports",SPORTS | 392 BeIn Sports USA
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1009.m3u8
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="SPORTS | 547 TDN HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/tdn.jpg" group-title="Sports",SPORTS | 547 TDN HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1013.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes2.es" tvg-name="SPORTS | Canal Deportes 2 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Canal+_Deporte_2.png" group-title="Deportes Calientes",SPORTS | Canal Deportes 2 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5345.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="SPORTS | Canal Deportes HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/canal%20deportes.png" group-title="Deportes Calientes",SPORTS | Canal Deportes HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5344.m3u8
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Special Events | Boxnation HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BoxNation.png" group-title="Special Events / PPVs",Special Events | Boxnation HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/665.m3u8
-#EXTINF:-1 tvg-id="Espn.co" tvg-name="SPORTS | ESPN + HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPN_Plus.png" group-title="Deportes Calientes",SPORTS | ESPN + HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/442.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="SPORTS | 9424 ESPN US HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPNN.png" group-title="Sports",SPORTS | 9424 ESPN US HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS | 142 ESPNews HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/espnnews.png" group-title="Sports",SPORTS | 142 ESPNews HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/394.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="SPORTS | 150 FS1 East HD." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/fs1usa.png" group-title="Sports",SPORTS | 150 FS1 East HD.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/392.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="SPORTS | 149 FS2 East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/fs2usa.png" group-title="Sports",SPORTS | 149 FS2 East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/393.m3u8
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="SPORTS | Real Madrid HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/realmadridtv.jpg" group-title="Deportes Calientes",SPORTS | Real Madrid HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/153.m3u8
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="SPORTS | Sportsnet 360 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SN360.png" group-title="Sports",SPORTS | Sportsnet 360 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1177.m3u8
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="SPORTS | SPORTSNET EAST HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Sportsnet_east.png" group-title="Sports",SPORTS | SPORTSNET EAST HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1178.m3u8
-#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="SPORTS | SPORTSNET ONE HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SPORTSNET%20ONE.png" group-title="Sports",SPORTS | SPORTSNET ONE HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1179.m3u8
-#EXTINF:-1 tvg-id="SportsnetOntario.ca" tvg-name="SPORTS | Sportsnet Ontario HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SPORTSNET%20ONTARIO.png" group-title="Sports",SPORTS | Sportsnet Ontario HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS | SPORTSNET WEST HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Sportsnet_west.png" group-title="Sports",SPORTS | SPORTSNET WEST HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1180.m3u8
-#EXTINF:-1 tvg-id="SportsnetOne.ca" tvg-name="SPORTS | SPORTSNET WORLD HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SPORTSNET%20WORLD.png" group-title="Sports",SPORTS | SPORTSNET WORLD HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1181.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="SPORTS | 9442 Tennis Channel HD NY" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TENNIS.png" group-title="Sports",SPORTS | 9442 Tennis Channel HD NY
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/982.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="SPORTS | TSN 1 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TSN1_new.png" group-title="Sports",SPORTS | TSN 1 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1165.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="SPORTS | TSN 2 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TSN2.png" group-title="Sports",SPORTS | TSN 2 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1166.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="SPORTS | TSN 3 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TSN3_svg.png" group-title="Sports",SPORTS | TSN 3 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1167.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="SPORTS | TSN 4 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Tsn_4_ca.png" group-title="Sports",SPORTS | TSN 4 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1168.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="SPORTS | TSN 5 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TSN5_svg.png" group-title="Sports",SPORTS | TSN 5 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1169.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="SPORTS | WIN Sport HD" tvg-logo="["http:\/\/system.fpiptv.com:8080\/live\/peppe_daddio2019\/03197631mzita\/870.ts"]" group-title="Deportes Calientes",SPORTS | WIN Sport HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1152.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" tvg-name="SPORTS | WIN Sports Colombia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/winsports.jpg" group-title="Sports",SPORTS | WIN Sports Colombia
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/931.m3u8
-#EXTINF:-1 tvg-id="WWE.us" tvg-name="Special Events | WWE HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/WWENetworkLogo.png" group-title="Special Events / PPVs",Special Events | WWE HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/526.m3u8
-#EXTINF:-1 tvg-id="ABC.us" tvg-name="PR | ABC PR" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/abc-5.png" group-title="Puerto Rico",PR | ABC PR
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PR | Mega TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MEGA.png" group-title="Puerto Rico",PR | Mega TV
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1395.m3u8
-#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="PR | Telemundo HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Puerto Rico",PR | Telemundo HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1390.m3u8
-#EXTINF:-1 tvg-id="I402.68049.schedulesdirect.org" tvg-name="PR | Univision HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UVN-LA-logo-trans.jpg" group-title="Puerto Rico",PR | Univision HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1391.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA." tvg-logo="[" group-title="Puerto Rico",PR | WAPA.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT  | Cremona TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CREMONA.jpg" group-title="Italia",IT  | Cremona TV
-http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT  | Rai News 24 iTalia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/rai%2024.jpg" group-title="Italia",IT  | Rai News 24 iTalia
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/453.m3u8
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="SPORTS | Formula + 1 HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FORMULA.png" group-title="Sports",SPORTS | Formula + 1 HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5340.m3u8
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="SPORTS | Canal Toros" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TOROS.jpg" group-title="Sports",SPORTS | Canal Toros
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5341.m3u8
-#EXTINF:-1 tvg-id="beINLaLiga.es" tvg-name="SPORTS | BeiN La Liga HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BEINLIGA.png" group-title="Deportes Calientes",SPORTS | BeiN La Liga HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT | SKY TG 24 iTalia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/tg%2024.jpg" group-title="Italia",IT | SKY TG 24 iTalia
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adult | PlayBoy BR." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Play_Boy_TV_logo.svg.png" group-title="Adultos",Adult | PlayBoy BR.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/4869.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="Dish  USA | 9420 TNT East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TNT.jpg" group-title="Dish USA",Dish  USA | 9420 TNT East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(38).jpg" group-title="MEXICO",Univision HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5713.m3u8
-#EXTINF:-1 tvg-id="Canal Comedy Central HD Latinoamérica" tvg-name="SKY  | 1217 Comedy Central HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(26).jpg" group-title="MEXICO",SKY  | 1217 Comedy Central HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5711.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="1421 Cinecanal HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(27).jpg" group-title="MEXICO",1421 Cinecanal HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/5697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | 9452 HBO Zone HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Zone_logo.png" group-title="Dish USA",USA | 9452 HBO Zone HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/422.m3u8
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="Dish USA | 301 HBO2 East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_2_HD_Logo_Poland.png" group-title="Dish USA",Dish USA | 301 HBO2 East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/391.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Dish USA | 310 Cinemax East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/cinemax.png" group-title="Dish USA",Dish USA | 310 Cinemax East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/365.m3u8
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Dish USA | 319 Showtime Eaest HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/showtime.png" group-title="Dish USA",Dish USA | 319 Showtime Eaest HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/358.m3u8
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Dish USA | 354 Starz Comedy HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/starz%20comedi.png" group-title="Dish USA",Dish USA | 354 Starz Comedy HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dish USA | 142 ESPNews HD*" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPNNEWS.png" group-title="Sports",Dish USA | 142 ESPNews HD*
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/439.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="Dish USA |  9456 HBO East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_HD.png" group-title="Dish USA",Dish USA |  9456 HBO East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/389.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Dish USA | 9480 Showtime2 East HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/showtime%202.png" group-title="Dish USA",Dish USA | 9480 Showtime2 East HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/363.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="Dish USA | 9508 NBA-TV HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/nba.png" group-title="Dish USA",Dish USA | 9508 NBA-TV HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/364.m3u8
-#EXTINF:-1 tvg-id="Showtime.us" tvg-name="Dish USA | 9512 Showtime West HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/showtime.png" group-title="Dish USA",Dish USA | 9512 Showtime West HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/362.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="Dish USA | 9430 TruTV HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TruTV_HD.png" group-title="Dish USA",Dish USA | 9430 TruTV HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6468.m3u8
-#EXTINF:-1 tvg-id="FOX50.us" tvg-name="NEWS | Fox 5 News (Washington DC)" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOX5.png" group-title="Dish USA",NEWS | Fox 5 News (Washington DC)
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6480.m3u8
-#EXTINF:-1 tvg-id="WGNAmerica.us" tvg-name="NEWS | WGN 9 News (Chicago)" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CHICAGO.png" group-title="Dish USA",NEWS | WGN 9 News (Chicago)
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6472.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="1474 HBO Family HD Latino." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(30).jpg" group-title="MEXICO",1474 HBO Family HD Latino.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6534.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="SKY  | 228 Distrito Comedy" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/928400815_DistritoComedia.png.e94692cebd4eb064dbaa7158e8ff45a4.png" group-title="MEXICO",SKY  | 228 Distrito Comedy
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1069.m3u8
-#EXTINF:-1 tvg-id="FoxComedy.co" tvg-name="1465 FOX Comedy HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(29).jpg" group-title="MEXICO",1465 FOX Comedy HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6536.m3u8
-#EXTINF:-1 tvg-id="Canal Unicable (México)" tvg-name="1208 Unicable HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(39).jpg" group-title="MEXICO",1208 Unicable HD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6537.m3u8
-#EXTINF:-1 tvg-id="TNT.mx" tvg-name="1419 TNT FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(40).jpg" group-title="MEXICO",1419 TNT FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PAN | 131 TVN" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TVN.jpg" group-title="Panama",PAN | 131 TVN
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6612.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Special Events | Fighting Channel World HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UFCNetwork.png" group-title="Special Events / PPVs",Special Events | Fighting Channel World HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6721.m3u8
-#EXTINF:-1 tvg-id="TDN.mx" tvg-name="SPORTS | TDN FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/tdn.jpg" group-title="Deportes Calientes",SPORTS | TDN FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AFICIONADOS IZZI HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AFIZZI.jpg" group-title="Special Events / PPVs",AFICIONADOS IZZI HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6861.m3u8
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" tvg-name="Golden Premiere FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GOLDENPREMIERE.jpg" group-title="Channels FHD",Golden Premiere FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6865.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Family | Nick México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK.png" group-title="Family / Kids",Family | Nick México FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6874.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Family | Disney Kids México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_kids_hd_logo.png" group-title="Family / Kids",Family | Disney Kids México FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6875.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Family | Cartoon Network México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CARTON.png" group-title="Family / Kids",Family | Cartoon Network México FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6870.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Family | Disney Channel México FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Disney_channel_hd.png" group-title="Family / Kids",Family | Disney Channel México FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6871.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Family | Disney JR FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/DISNEYJR.png" group-title="Family / Kids",Family | Disney JR FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6872.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="Family | Disney XD HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Disney-XD.png" group-title="Family / Kids",Family | Disney XD HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6873.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family  FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Family_logo.png" group-title="Channels FHD",HBO Family  FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6867.m3u8
-#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_HD.png" group-title="Channels FHD",HBO FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6887.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO Plus FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Plus.png" group-title="Channels FHD",HBO Plus FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6886.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Animal_Planet_HD.png" group-title="Channels FHD",Animal Planet FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6869.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Channel_HD_2007.png" group-title="Channels FHD",Discovery FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6868.m3u8
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/The_Learning_Channel_HD.png" group-title="Channels FHD",TLC FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6877.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TNT%20SERIES.png" group-title="Channels FHD",TNT Series FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6876.m3u8
-#EXTINF:-1 tvg-id="FoxLifeLatinAmerica.pa" tvg-name="Canal FOX FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOX%20HD.png" group-title="Channels FHD",Canal FOX FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/9298.m3u8
-#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="FOX Premium Family  FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOXFAMILI.png" group-title="Channels FHD",FOX Premium Family  FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6879.m3u8
-#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="FOX Premium Comedy FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FOXCOMEDY.png" group-title="Channels FHD",FOX Premium Comedy FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6883.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery H&h FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Home_&_Health_HD.png" group-title="Channels FHD",Discovery H&h FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/6885.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT  | Rai Italia HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RAIITALIA.png" group-title="Italia",IT  | Rai Italia HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7007.m3u8
-#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name="GOLDEN Plus FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GoldenPlus.png" group-title="Channels FHD",GOLDEN Plus FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7010.m3u8
-#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="Dish USA | TELEMUNDO 52" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Dish USA",Dish USA | TELEMUNDO 52
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7405.m3u8
-#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="SPORTS | ESPN 3 HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(10).jpg" group-title="Sports",SPORTS | ESPN 3 HD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT  | TeleArena" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELEARENA.jpg" group-title="Italia",IT  | TeleArena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TBS_HD.png" group-title="Channels FHD",TBS FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT  | Rai Italia SD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RAIITALIA.png" group-title="Italia",IT  | Rai Italia SD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7254.m3u8
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="RD | AzCorazon HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(22).jpg" group-title="Republica Dominicana",RD | AzCorazon HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/446.m3u8
-#EXTINF:-1 tvg-id="AztecaMundo.mx" tvg-name="RD | AzMundo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(23).jpg" group-title="Republica Dominicana",RD | AzMundo
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD | Telemicro RD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(24).jpg" group-title="Republica Dominicana",RD | Telemicro RD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/443.m3u8
-#EXTINF:-1 tvg-id="c4241b3ec4c4f18669e038c123ee9671" tvg-name="RD | CineDinamite" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(25).jpg" group-title="Republica Dominicana",RD | CineDinamite
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/280.m3u8
-#EXTINF:-1 tvg-id="RcnNovelas.co" tvg-name="RD | RCN Novelas HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(2).jpg" group-title="Republica Dominicana",RD | RCN Novelas HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/237.m3u8
-#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="RD | CineLatino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(11).jpg" group-title="Republica Dominicana",RD | CineLatino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT: Rai Premium HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RAIPREMIUM.png" group-title="Italia",IT: Rai Premium HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8369.m3u8
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="AE FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AE.png" group-title="Channels FHD",AE FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/7745.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/discovery-theater-hd.png" group-title="Channels FHD",DISCOVERY THEATHER FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8370.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name=" HISTORY FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HIS.jpg" group-title="Channels FHD", HISTORY FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8372.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="ID FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Investigation_Discovery_HD.png" group-title="Channels FHD",ID FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/8371.m3u8
-#EXTINF:-1 tvg-id="MaxPrime.mx" tvg-name="DISH MEX | MP" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MULTIP.png" group-title="Latinos",DISH MEX | MP
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1130.m3u8
-#EXTINF:-1 tvg-id="NBC.us" tvg-name="PR | NBC PR" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NBC%20NY.png" group-title="Puerto Rico",PR | NBC PR
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC HD Los Angeles" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Abc_hd.png" group-title="Dish USA",USA | ABC HD Los Angeles
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/450.m3u8
-#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FOX Premium Cinema HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CINEMAA.png" group-title="Channels FHD",FOX Premium Cinema HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/9983.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-name="RD | DIiscovery Turbo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Discovery_Turbo_2014_3D.png" group-title="Republica Dominicana",RD | DIiscovery Turbo
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/9985.m3u8
-#EXTINF:-1 tvg-id="Canal Discovery Turbo Latinoamérica" tvg-name="RD | Discovery Turbo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(12).jpg" group-title="Republica Dominicana",RD | Discovery Turbo
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RD | TCM Latino America" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/RCM.png" group-title="Republica Dominicana",RD | TCM Latino America
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10075.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="RD | Discovery Theather FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/discovery-theater-hd.png" group-title="Republica Dominicana",RD | Discovery Theather FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10038.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Dish Mex | XHIMT Canal 7 TV Azteca" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/azteca-7-hd.jpg" group-title="Latinos",Dish Mex | XHIMT Canal 7 TV Azteca
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1076.m3u8
-#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="DISH MEX | AZTECA Corazon Latino America" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/aztecacorazon.jpg" group-title="Latinos",DISH MEX | AZTECA Corazon Latino America
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1074.m3u8
-#EXTINF:-1 tvg-id="AztecaMundo.mx" tvg-name="DISH MEX | Azteca Mundo Lat" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MUNDO-logo-620x300.png" group-title="Latinos",DISH MEX | Azteca Mundo Lat
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1073.m3u8
-#EXTINF:-1 tvg-id="AztecaNoticias.mx" tvg-name="DISH MEX | AZTECA A+" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/A+.png" group-title="Latinos",DISH MEX | AZTECA A+
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1072.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="DISH MEX | Azteca Siete." tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SIETE.jpg" group-title="Latinos",DISH MEX | Azteca Siete.
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | BABY TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Baby_TV.png" group-title="Latinos",DISH MEX | BABY TV
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | BOOMERANG" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/BOOMERANG.png" group-title="Latinos",DISH MEX | BOOMERANG
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | CARTOON NETWORK" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CARTON.png" group-title="Latinos",DISH MEX | CARTOON NETWORK
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1142.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="Dish Mex | History Channel Lat" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HIS.jpg" group-title="Latinos",Dish Mex | History Channel Lat
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1052.m3u8
-#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="Dish Mex | MAX Prime" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MAX%20PRIME.png" group-title="Latinos",Dish Mex | MAX Prime
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISH MEX | NICK" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NICK.png" group-title="Latinos",DISH MEX | NICK
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/1093.m3u8
-#EXTINF:-1 tvg-id="GoldenEdgeLatinAmerica.pa" tvg-name="RD | GOLDEN HD Plus" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GoldenPlus.png" group-title="Republica Dominicana",RD | GOLDEN HD Plus
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10532.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="RD | HBO Plus HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/HBO_Plus.png" group-title="Republica Dominicana",RD | HBO Plus HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10531.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="RD | ANIMALPLANET" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Animal_Planet_HD.png" group-title="Republica Dominicana",RD | ANIMALPLANET
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10533.m3u8
-#EXTINF:-1 tvg-id="Canal 2 de México (Canal Las Estrellas - XEW)" tvg-name="Channels FHD | Las Estrellas XEW" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESTRELLA.jpg" group-title="Channels FHD",Channels FHD | Las Estrellas XEW
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEPELICULA" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/DePeliculaHD-1.png" group-title="Channels FHD",DEPELICULA
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10564.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="RD | ESPNPLUS HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPN_Plus.png" group-title="Republica Dominicana",RD | ESPNPLUS HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10604.m3u8
-#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="SPORTS | ESPN HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESPNN.png" group-title="Sports",SPORTS | ESPN HD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10621.m3u8
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="626 CNNE" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(37).jpg" group-title="MEXICO",626 CNNE
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/276.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Family | Discovery Kids" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(14).jpg" group-title="Family / Kids",Family | Discovery Kids
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/273.m3u8
-#EXTINF:-1 tvg-id="Disney.co" tvg-name="Family | Disney" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(13).jpg" group-title="Family / Kids",Family | Disney
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/271.m3u8
-#EXTINF:-1 tvg-id="DisneyJrNorte.co" tvg-name="Family | Disney Jr" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(15).jpg" group-title="Family / Kids",Family | Disney Jr
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/270.m3u8
-#EXTINF:-1 tvg-id="DisneyXd.co" tvg-name="Family | Disney XD Norte" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(16).jpg" group-title="Family / Kids",Family | Disney XD Norte
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/269.m3u8
-#EXTINF:-1 tvg-id="FoxInternational.mx" tvg-name="RD | FOX Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(7).jpg" group-title="Republica Dominicana",RD | FOX Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/264.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="SPORTS | FOX Sports 2 FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(5).jpg" group-title="Sports",SPORTS | FOX Sports 2 FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/256.m3u8
-#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="SPORTS | FOX Sports 3 FHD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(6).jpg" group-title="Sports",SPORTS | FOX Sports 3 FHD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/255.m3u8
-#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="SPORTS | FOX Sports HD Latino" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/image%20(4).jpg" group-title="Sports",SPORTS | FOX Sports HD Latino
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/257.m3u8
-#EXTINF:-1 tvg-id="TelemundoLatinAmerica.pa" tvg-name="Dish USA | TELEMUNDO 47 NY FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TelemundoInt2018.png" group-title="Channels FHD",Dish USA | TELEMUNDO 47 NY FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/10706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraFilm" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraFilm
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraMex" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraMex
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraCine" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraCine
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraCineKids" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraCineKids
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraFamilia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraFamilia
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraFiesta" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraFiesta
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraLuna" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraLuna
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraMacho" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraMacho
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraClasico" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraClasico
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11352.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraBanda" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraBanda
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11355.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraDocu" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraDocu
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11353.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | UltraEntrainment" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRACINE.jpg" group-title="Ultra Premium",Ultra | UltraEntrainment
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11354.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Cincomas" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CINCOMAS.jpg" group-title="Ultra Premium",Ultra | Cincomas
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Mi planeta" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/planeta-tierra-espacio-pintado-por-peluche13-9802905.jpg" group-title="Ultra Premium",Ultra | Mi planeta
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Orbitatv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ORBITAA.jpg" group-title="Ultra Premium",Ultra | Orbitatv
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Romanc1" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ROMANCE.png" group-title="Ultra Premium",Ultra | Romanc1
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Gran Cine" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/GRANCINE.png" group-title="Ultra Premium",Ultra | Gran Cine
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Super Canal" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SUPERC.jpg" group-title="Ultra Premium",Ultra | Super Canal
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Altavision" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ALTAVISION.png" group-title="Ultra Premium",Ultra | Altavision
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Fix and Foxi" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FIX.png" group-title="Ultra Premium",Ultra | Fix and Foxi
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Insight TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/insight_logo__twocolumncontent.png" group-title="Ultra Premium",Ultra | Insight TV
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Lasusa" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/LaSusa-and-Deb-Law-Offices-social-logo.jpg" group-title="Ultra Premium",Ultra | Lasusa
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Mooltv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MOOLTV.png" group-title="Ultra Premium",Ultra | Mooltv
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | 24 horas" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/24_Horas_TVN_alt.png" group-title="Ultra Premium",Ultra | 24 horas
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Aymsports" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/AYM.jpg" group-title="Ultra Premium",Ultra | Aymsports
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | C7 Jalisco" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/C7.jpg" group-title="Ultra Premium",Ultra | C7 Jalisco
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Canal 44" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Canal_44_de_Guadalajara_Logo.png" group-title="Ultra Premium",Ultra | Canal 44
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | CbTv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CBTV.png" group-title="Ultra Premium",Ultra | CbTv
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Cubaplay" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CUBAPLAY.png" group-title="Ultra Premium",Ultra | Cubaplay
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Dominican View" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/DOMINICAN.png" group-title="Ultra Premium",Ultra | Dominican View
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Enlace" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Enlace_logo.png" group-title="Ultra Premium",Ultra | Enlace
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Estrellatv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ESTRE.png" group-title="Ultra Premium",Ultra | Estrellatv
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | france24hd" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/France24.png" group-title="Ultra Premium",Ultra | france24hd
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Naturevision" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/NATURE.png" group-title="Ultra Premium",Ultra | Naturevision
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Pacifico TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PACIFICO.jpg" group-title="Ultra Premium",Ultra | Pacifico TV
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Senal de vida" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/SE%c3%91AL.png" group-title="Ultra Premium",Ultra | Senal de vida
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Tarima" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TARIMA.png" group-title="Ultra Premium",Ultra | Tarima
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Tele el Salvador" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELESALVADOR.jpg" group-title="Ultra Premium",Ultra | Tele el Salvador
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Telekaribe" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Telecaribe_HD.png" group-title="Ultra Premium",Ultra | Telekaribe
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | telemicro" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Telemicro_2002_1.png" group-title="Ultra Premium",Ultra | telemicro
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Telen" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/teleten_business_name_desing.png" group-title="Ultra Premium",Ultra | Telen
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra | Zeemundo" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ZEE_MUNDO_2017.png" group-title="Ultra Premium",Ultra | Zeemundo
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ultra |Son life spanish" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/sbnlogo.jpg" group-title="Ultra Premium",Ultra |Son life spanish
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11449.m3u8
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CL | CDF Premium HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CDF.png" group-title="Chile",CL | CDF Premium HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11635.m3u8
-#EXTINF:-1 tvg-id="Fox Deportes en Español HDTV (U.S.) (FXDEHD) US" tvg-name="CL | ChileVision" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CHILEVISION.png" group-title="Chile",CL | ChileVision
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11640.m3u8
-#EXTINF:-1 tvg-id="HBO Family HDTV (East) (HBOFHD) US" tvg-name="CL | Mega Hd" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MEGA.png" group-title="Chile",CL | Mega Hd
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11637.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel US" tvg-name="CL | Trece HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/13C.png" group-title="Chile",CL | Trece HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11644.m3u8
-#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CL | TVN HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TVN.jpg" group-title="Chile",CL | TVN HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11642.m3u8
-#EXTINF:-1 tvg-id="VePlusTv.co" tvg-name="CL | CNN" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CNNU.png" group-title="Chile",CL | CNN
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11643.m3u8
-#EXTINF:-1 tvg-id="TycSports.ar" tvg-name="SPORTS | TYC Sports FHD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TYCSPORTS.png" group-title="Sports",SPORTS | TYC Sports FHD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11783.m3u8
-#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="PE | America Peru" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/america-tv.png" group-title="Panama",PE | America Peru
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | Frecuencia Latina" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/FRECU.png" group-title="Peru",PE | Frecuencia Latina
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11589.m3u8
-#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="PE | Panamericana" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PANAMERICANA.png" group-title="Peru",PE | Panamericana
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | Peru Magico HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Peru_Magico_2016.png" group-title="Peru",PE | Peru Magico HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11608.m3u8
-#EXTINF:-1 tvg-id="Animal Planet IT" tvg-name="PE | TV Peru HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TVPERU.png" group-title="Peru",PE | TV Peru HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicales | tarima tv" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TARIMA.png" group-title="Musicales",Musicales | tarima tv
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicales | Ultrabanda" tvg-logo="["http:\/\/209.126.103.127\/vemox\/ultra\/channel.php?id=ultrabanda&calidad=4"]" group-title="Musicales",Musicales | Ultrabanda
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicales | Ultrafiesta" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/ULTRAFIESTA.png" group-title="Musicales",Musicales | Ultrafiesta
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11831.m3u8
-#EXTINF:-1 tvg-id="CityTV.ca" tvg-name="CO | Caracol" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/CARACOL.png" group-title="Colombia",CO | Caracol
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11201.m3u8
-#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO | RCN HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Rcn_hd_2016.png" group-title="Colombia",CO | RCN HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Tele Vida" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELEVIDA.png" group-title="Colombia",CO | Tele Vida
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11189.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="CO | Teleantioqia" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Teleantioquia.png" group-title="Colombia",CO | Teleantioqia
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11205.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="CO | Telemedillin" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/TELEMEDELLIN.png" group-title="Colombia",CO | Telemedillin
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicales | HTV-B" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Htv_logo.svg.png" group-title="Musicales",Musicales | HTV-B
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicales | MTV HITS HD" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MTVHITS.png" group-title="Musicales",Musicales | MTV HITS HD
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Musicales | VH1 CLASSIC" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/VH1C.png" group-title="Musicales",Musicales | VH1 CLASSIC
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA PELUCHE" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/PELUCHE.jpg" group-title="24/7 Live Stream",LA FAMILIA PELUCHE
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11880.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MALCOLM EL DE ENMEDIO" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/MALCL.jpg" group-title="24/7 Live Stream",MALCOLM EL DE ENMEDIO
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11879.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROSA DE GUADALUPE" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/LA%20ROSA.jpg" group-title="24/7 Live Stream",ROSA DE GUADALUPE
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RUGRATS" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/Rugrats_Logo.png" group-title="24/7 Live Stream",RUGRATS
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11876.m3u8
-#EXTINF:-1 tvg-id="UFCNetwork.mx" tvg-name="PPVS |  UFC ™TV" tvg-logo="https://vodtv.dyndns.tv/vod/PICONS/UFCNetwork.png" group-title="Special Events / PPVs",PPVS |  UFC ™TV
-http://tvpremiumhd.club/lista-gratuita/211010/on/live.php?id=aleiptv.mine.nu:8000/live/aaron/1234/11894.m3u8
+#EXTINF:0,A&E
+http://unlockyourtv.com:8000/billy/billy/866
+#EXTINF:0,ABC West
+http://unlockyourtv.com:8000/billy/billy/980
+#EXTINF:0,ABC Atlanta
+http://unlockyourtv.com:8000/billy/billy/2264
+#EXTINF:0,ABC Boston
+http://unlockyourtv.com:8000/billy/billy/2266
+#EXTINF:0,ABC Chicago
+http://unlockyourtv.com:8000/billy/billy/2267
+#EXTINF:0,ABC Cleveland
+http://unlockyourtv.com:8000/billy/billy/2268
+#EXTINF:0,ABC 9 Charlotte
+http://unlockyourtv.com:8000/billy/billy/1597
+#EXTINF:0,ABC Connecticut
+http://unlockyourtv.com:8000/billy/billy/2269
+#EXTINF:0,ABC 8 Dallas
+http://unlockyourtv.com:8000/billy/billy/1596
+#EXTINF:0,ABC Denver
+http://unlockyourtv.com:8000/billy/billy/2270
+#EXTINF:0,ABC 7 Detroit
+http://unlockyourtv.com:8000/billy/billy/1823
+#EXTINF:0,ABC Fresno
+http://unlockyourtv.com:8000/billy/billy/2271
+#EXTINF:0,ABC Indianapolis
+http://unlockyourtv.com:8000/billy/billy/2272
+#EXTINF:0,ABC 9 Kansas City
+http://unlockyourtv.com:8000/billy/billy/1598
+#EXTINF:0,ABC Los Angeles
+http://unlockyourtv.com:8000/billy/billy/1618
+#EXTINF:0,ABC Miami
+http://unlockyourtv.com:8000/billy/billy/2274
+#EXTINF:0,ABC Milwaukee
+http://unlockyourtv.com:8000/billy/billy/2275
+#EXTINF:0,ABC Orlando
+http://unlockyourtv.com:8000/billy/billy/2277
+#EXTINF:0,ABC 15 Phoenix
+http://unlockyourtv.com:8000/billy/billy/1592
+#EXTINF:0,ABC Portland
+http://unlockyourtv.com:8000/billy/billy/2280
+#EXTINF:0,ABC Sacramento
+http://unlockyourtv.com:8000/billy/billy/2281
+#EXTINF:0,ABC Salt Lake City
+http://unlockyourtv.com:8000/billy/billy/2283
+#EXTINF:0,ABC San Antonio
+http://unlockyourtv.com:8000/billy/billy/2284
+#EXTINF:0,ABC Seattle
+http://unlockyourtv.com:8000/billy/billy/2287
+#EXTINF:0,ABC St. Louis
+http://unlockyourtv.com:8000/billy/billy/2288
+#EXTINF:0,ABC Washington
+http://unlockyourtv.com:8000/billy/billy/2289
+#EXTINF:0,ABC 7 News (Sarasota)
+http://unlockyourtv.com:8000/billy/billy/1345
+#EXTINF:0,American Heroes Channel
+http://unlockyourtv.com:8000/billy/billy/1760
+#EXTINF:0,AMC
+http://unlockyourtv.com:8000/billy/billy/981
+#EXTINF:0,Animal Planet
+http://unlockyourtv.com:8000/billy/billy/834
+#EXTINF:0,BET East HD
+http://unlockyourtv.com:8000/billy/billy/453
+#EXTINF:0,BET HER
+http://unlockyourtv.com:8000/billy/billy/957
+#EXTINF:0,Bloomberg TV HD
+http://unlockyourtv.com:8000/billy/billy/1356
+#EXTINF:0,Bravo West
+http://unlockyourtv.com:8000/billy/billy/2139
+#EXTINF:0,Cartoon Network East HD
+http://unlockyourtv.com:8000/billy/billy/538
+#EXTINF:0,CBS
+http://unlockyourtv.com:8000/billy/billy/993
+#EXTINF:0,CBS Atlanta
+http://unlockyourtv.com:8000/billy/billy/2290
+#EXTINF:0,CBS Baltimore
+http://unlockyourtv.com:8000/billy/billy/2291
+#EXTINF:0,CBS 4 BOSTON
+http://unlockyourtv.com:8000/billy/billy/1031
+#EXTINF:0,CBS Charlotte
+http://unlockyourtv.com:8000/billy/billy/2292
+#EXTINF:0,CBS Chicago
+http://unlockyourtv.com:8000/billy/billy/1035
+#EXTINF:0,CBS Cleveland
+http://unlockyourtv.com:8000/billy/billy/2293
+#EXTINF:0,CBS Columbus
+http://unlockyourtv.com:8000/billy/billy/2294
+#EXTINF:0,CBS Dallas
+http://unlockyourtv.com:8000/billy/billy/2295
+#EXTINF:0,CBS 4 DENVER
+http://unlockyourtv.com:8000/billy/billy/1034
+#EXTINF:0,CBS 62 DETROIT
+http://unlockyourtv.com:8000/billy/billy/1040
+#EXTINF:0,CBS Greensboro
+http://unlockyourtv.com:8000/billy/billy/2296
+#EXTINF:0,CBS Hartford
+http://unlockyourtv.com:8000/billy/billy/2297
+#EXTINF:0,CBS Houston
+http://unlockyourtv.com:8000/billy/billy/2298
+#EXTINF:0,CBS Jacksonville
+http://unlockyourtv.com:8000/billy/billy/2299
+#EXTINF:0,CBS Kansas City
+http://unlockyourtv.com:8000/billy/billy/2300
+#EXTINF:0,CBS 2 LOS ANGELES
+http://unlockyourtv.com:8000/billy/billy/1036
+#EXTINF:0,CBS Miami
+http://unlockyourtv.com:8000/billy/billy/2301
+#EXTINF:0,CBS Milwaukee
+http://unlockyourtv.com:8000/billy/billy/2302
+#EXTINF:0,CBS Minneapolis
+http://unlockyourtv.com:8000/billy/billy/2303
+#EXTINF:0,CBS Nashville
+http://unlockyourtv.com:8000/billy/billy/2304
+#EXTINF:0,CBS New Orleans
+http://unlockyourtv.com:8000/billy/billy/2305
+#EXTINF:0,CBS 2 NEW YORK
+http://unlockyourtv.com:8000/billy/billy/1037
+#EXTINF:0,CBS Orlando
+http://unlockyourtv.com:8000/billy/billy/2306
+#EXTINF:0,CBS Phoenix
+http://unlockyourtv.com:8000/billy/billy/2307
+#EXTINF:0,CBS Pittsburgh
+http://unlockyourtv.com:8000/billy/billy/2308
+#EXTINF:0,CBS Sacramento
+http://unlockyourtv.com:8000/billy/billy/2309
+#EXTINF:0,CBS San Antonio
+http://unlockyourtv.com:8000/billy/billy/2310
+#EXTINF:0,CBS San Diego
+http://unlockyourtv.com:8000/billy/billy/2311
+#EXTINF:0,CBS San Francisco
+http://unlockyourtv.com:8000/billy/billy/2312
+#EXTINF:0,CBS Seattle
+http://unlockyourtv.com:8000/billy/billy/2313
+#EXTINF:0,CBS Tampa
+http://unlockyourtv.com:8000/billy/billy/2315
+#EXTINF:0,CBSN HD
+http://unlockyourtv.com:8000/billy/billy/611
+#EXTINF:0,Cinemax Action Max HD
+http://unlockyourtv.com:8000/billy/billy/580
+#EXTINF:0,Cinemax East
+http://unlockyourtv.com:8000/billy/billy/2068
+#EXTINF:0,Cinemax West
+http://unlockyourtv.com:8000/billy/billy/2149
+#EXTINF:0,CINEMAX MORE MAX
+http://unlockyourtv.com:8000/billy/billy/1163
+#EXTINF:0,CINEMAX OUTER MAX
+http://unlockyourtv.com:8000/billy/billy/1158
+#EXTINF:0,Cooking Channel
+http://unlockyourtv.com:8000/billy/billy/2142
+#EXTINF:0,COMEDY CENTRAL HD
+http://unlockyourtv.com:8000/billy/billy/539
+#EXTINF:0,COZI
+http://unlockyourtv.com:8000/billy/billy/2143
+#EXTINF:0,CMT HD
+http://unlockyourtv.com:8000/billy/billy/1161
+#EXTINF:0,CNBC
+http://unlockyourtv.com:8000/billy/billy/1100
+#EXTINF:0,CNN HD
+http://unlockyourtv.com:8000/billy/billy/885
+#EXTINF:0,CW
+http://unlockyourtv.com:8000/billy/billy/1148
+#EXTINF:0,Destination America HD
+http://unlockyourtv.com:8000/billy/billy/541
+#EXTINF:0,Disney East HD
+http://unlockyourtv.com:8000/billy/billy/2140
+#EXTINF:0,DISNEY JUNIOR HD
+http://unlockyourtv.com:8000/billy/billy/604
+#EXTINF:0,Disney XD HD
+http://unlockyourtv.com:8000/billy/billy/614
+#EXTINF:0,DISCOVERY HD
+http://unlockyourtv.com:8000/billy/billy/542
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://unlockyourtv.com:8000/billy/billy/543
+#EXTINF:0,DIY Network HD
+http://unlockyourtv.com:8000/billy/billy/1358
+#EXTINF:0,EL REY HD
+http://unlockyourtv.com:8000/billy/billy/835
+#EXTINF:0,Epix
+http://unlockyourtv.com:8000/billy/billy/2069
+#EXTINF:0,FOOD NETWORK HD
+http://unlockyourtv.com:8000/billy/billy/836
+#EXTINF:0,FOX HD
+http://unlockyourtv.com:8000/billy/billy/1112
+#EXTINF:0,Fox News
+http://unlockyourtv.com:8000/billy/billy/1107
+#EXTINF:0,Fox Business Network
+http://unlockyourtv.com:8000/billy/billy/900
+#EXTINF:0,Fox Atlanta
+http://unlockyourtv.com:8000/billy/billy/1239
+#EXTINF:0,FOX Austin
+http://unlockyourtv.com:8000/billy/billy/2316
+#EXTINF:0,FOX 54 Augusta
+http://unlockyourtv.com:8000/billy/billy/1316
+#EXTINF:0,FOX Boston
+http://unlockyourtv.com:8000/billy/billy/1055
+#EXTINF:0,FOX Buffalo
+http://unlockyourtv.com:8000/billy/billy/2319
+#EXTINF:0,FOX Chicago
+http://unlockyourtv.com:8000/billy/billy/2320
+#EXTINF:0,FOX Cleveland
+http://unlockyourtv.com:8000/billy/billy/2321
+#EXTINF:0,FOX Columbus
+http://unlockyourtv.com:8000/billy/billy/2322
+#EXTINF:0,FOX 4 DALLAS
+http://unlockyourtv.com:8000/billy/billy/1058
+#EXTINF:0,FOX 5 D.C.
+http://unlockyourtv.com:8000/billy/billy/1061
+#EXTINF:0,FOX Denver
+http://unlockyourtv.com:8000/billy/billy/2323
+#EXTINF:0,FOX 2 DETROIT
+http://unlockyourtv.com:8000/billy/billy/1052
+#EXTINF:0,FOX 26 HOUSTON
+http://unlockyourtv.com:8000/billy/billy/1056
+#EXTINF:0,FOX Jacksonville
+http://unlockyourtv.com:8000/billy/billy/2327
+#EXTINF:0,FOX Kansas City
+http://unlockyourtv.com:8000/billy/billy/2328
+#EXTINF:0,FOX Los Angeles
+http://unlockyourtv.com:8000/billy/billy/2329
+#EXTINF:0,FOX Miami
+http://unlockyourtv.com:8000/billy/billy/2330
+#EXTINF:0,FOX Milwaukee
+http://unlockyourtv.com:8000/billy/billy/2331
+#EXTINF:0,FOX Minneapolis
+http://unlockyourtv.com:8000/billy/billy/2332
+#EXTINF:0,FOX Nashville
+http://unlockyourtv.com:8000/billy/billy/2333
+#EXTINF:0,FOX 8 NEW ORLEANS
+http://unlockyourtv.com:8000/billy/billy/1066
+#EXTINF:0,FOX New York
+http://unlockyourtv.com:8000/billy/billy/2334
+#EXTINF:0,FOX Orlando
+http://unlockyourtv.com:8000/billy/billy/2336
+#EXTINF:0,FOX Phoenix
+http://unlockyourtv.com:8000/billy/billy/2337
+#EXTINF:0,FOX 29 PHILADELPHIA
+http://unlockyourtv.com:8000/billy/billy/1050
+#EXTINF:0,FOX Sacramento
+http://unlockyourtv.com:8000/billy/billy/2339
+#EXTINF:0,FOX Salt Lake City
+http://unlockyourtv.com:8000/billy/billy/2340
+#EXTINF:0,FOX San Antonio
+http://unlockyourtv.com:8000/billy/billy/2341
+#EXTINF:0,FOX San Francisco
+http://unlockyourtv.com:8000/billy/billy/2343
+#EXTINF:0,FOX Seattle
+http://unlockyourtv.com:8000/billy/billy/2344
+#EXTINF:0,FOX St Louis
+http://unlockyourtv.com:8000/billy/billy/2345
+#EXTINF:0,FOX 13 TAMPA
+http://unlockyourtv.com:8000/billy/billy/1051
+#EXTINF:0,Fuse
+http://unlockyourtv.com:8000/billy/billy/2147
+#EXTINF:0,Fusion
+http://unlockyourtv.com:8000/billy/billy/2148
+#EXTINF:0,FX HD
+http://unlockyourtv.com:8000/billy/billy/1359
+#EXTINF:0,FXM
+http://unlockyourtv.com:8000/billy/billy/1361
+#EXTINF:0,FYI
+http://unlockyourtv.com:8000/billy/billy/2146
+#EXTINF:0,Game Show Network
+http://unlockyourtv.com:8000/billy/billy/962
+#EXTINF:0,HBO
+http://unlockyourtv.com:8000/billy/billy/616
+#EXTINF:0,HBO East
+http://unlockyourtv.com:8000/billy/billy/2070
+#EXTINF:0,HBO West
+http://unlockyourtv.com:8000/billy/billy/2150
+#EXTINF:0,HBO Family
+http://unlockyourtv.com:8000/billy/billy/1417
+#EXTINF:0,HBO ZONE HD
+http://unlockyourtv.com:8000/billy/billy/585
+#EXTINF:0,HALLMARK HD
+http://unlockyourtv.com:8000/billy/billy/550
+#EXTINF:0,HALLMARK MOVIE HD
+http://unlockyourtv.com:8000/billy/billy/569
+#EXTINF:0,HGTV East
+http://unlockyourtv.com:8000/billy/billy/899
+#EXTINF:0,History Channel HD
+http://unlockyourtv.com:8000/billy/billy/1428
+#EXTINF:0,HSN
+http://unlockyourtv.com:8000/billy/billy/1165
+#EXTINF:0,HLN
+http://unlockyourtv.com:8000/billy/billy/2153
+#EXTINF:0,IFC
+http://unlockyourtv.com:8000/billy/billy/961
+#EXTINF:0,INVESTIGATION DISCOVERY HD
+http://unlockyourtv.com:8000/billy/billy/552
+#EXTINF:0,LMN HD
+http://unlockyourtv.com:8000/billy/billy/571
+#EXTINF:0,LIFETIME HD
+http://unlockyourtv.com:8000/billy/billy/570
+#EXTINF:0,MSNBC HD
+http://unlockyourtv.com:8000/billy/billy/576
+#EXTINF:0,NAT GEO HD
+http://unlockyourtv.com:8000/billy/billy/1164
+#EXTINF:0,NAT GEO WILD HD
+http://unlockyourtv.com:8000/billy/billy/573
+#EXTINF:0,NBC
+http://unlockyourtv.com:8000/billy/billy/1611
+#EXTINF:0,NBC Boston
+http://unlockyourtv.com:8000/billy/billy/2543
+#EXTINF:0,NBC Chicago
+http://unlockyourtv.com:8000/billy/billy/2544
+#EXTINF:0,NBC 4 D.C.
+http://unlockyourtv.com:8000/billy/billy/1070
+#EXTINF:0,NBC Dallas
+http://unlockyourtv.com:8000/billy/billy/1073
+#EXTINF:0,NBC 4 LOS ANGELES
+http://unlockyourtv.com:8000/billy/billy/1068
+#EXTINF:0,NBC 6 MIAMI
+http://unlockyourtv.com:8000/billy/billy/1074
+#EXTINF:0,NBC 4 NEW YORK
+http://unlockyourtv.com:8000/billy/billy/1071
+#EXTINF:0,NBC 10 PHILADELPHIA
+http://unlockyourtv.com:8000/billy/billy/1069
+#EXTINF:0,NBC Raleigh
+http://unlockyourtv.com:8000/billy/billy/1616
+#EXTINF:0,NBC 7 SAN DIEGO
+http://unlockyourtv.com:8000/billy/billy/1075
+#EXTINF:0,NICK HD
+http://unlockyourtv.com:8000/billy/billy/555
+#EXTINF:0,Nick Jr. HD
+http://unlockyourtv.com:8000/billy/billy/556
+#EXTINF:0,Nicktoons HD
+http://unlockyourtv.com:8000/billy/billy/1630
+#EXTINF:0,Paramount Network
+http://unlockyourtv.com:8000/billy/billy/1224
+#EXTINF:0,Oxygen
+http://unlockyourtv.com:8000/billy/billy/574
+#EXTINF:0,QVC
+http://unlockyourtv.com:8000/billy/billy/960
+#EXTINF:0,OWN
+http://unlockyourtv.com:8000/billy/billy/1157
+#EXTINF:0,Revolt
+http://unlockyourtv.com:8000/billy/billy/2152
+#EXTINF:0,Showtime East
+http://unlockyourtv.com:8000/billy/billy/586
+#EXTINF:0,Showtime West
+http://unlockyourtv.com:8000/billy/billy/2151
+#EXTINF:0,SHOWTIME 2 HD
+http://unlockyourtv.com:8000/billy/billy/587
+#EXTINF:0,SHOWTIME EXTREME
+http://unlockyourtv.com:8000/billy/billy/1160
+#EXTINF:0,SUNDANCE TV HD
+http://unlockyourtv.com:8000/billy/billy/607
+#EXTINF:0,Starz HD
+http://unlockyourtv.com:8000/billy/billy/1237
+#EXTINF:0,Starz Comedy
+http://unlockyourtv.com:8000/billy/billy/1236
+#EXTINF:0,Starz Encore
+http://unlockyourtv.com:8000/billy/billy/1238
+#EXTINF:0,Starz Encore Western HD
+http://unlockyourtv.com:8000/billy/billy/1325
+#EXTINF:0,SyFy
+http://unlockyourtv.com:8000/billy/billy/904
+#EXTINF:0,TBS East
+http://unlockyourtv.com:8000/billy/billy/560
+#EXTINF:0,TLC
+http://unlockyourtv.com:8000/billy/billy/638
+#EXTINF:0,TNT HD
+http://unlockyourtv.com:8000/billy/billy/561
+#EXTINF:0,Travel Channel
+http://unlockyourtv.com:8000/billy/billy/905
+#EXTINF:0,TRU TV HD
+http://unlockyourtv.com:8000/billy/billy/563
+#EXTINF:0,TV LAND HD
+http://unlockyourtv.com:8000/billy/billy/564
+#EXTINF:0,TV One
+http://unlockyourtv.com:8000/billy/billy/886
+#EXTINF:0,The Weather Channel HD
+http://unlockyourtv.com:8000/billy/billy/578
+#EXTINF:0,USA Network East
+http://unlockyourtv.com:8000/billy/billy/565
+#EXTINF:0,VELOCITY
+http://unlockyourtv.com:8000/billy/billy/1353
+#EXTINF:0,VICELAND HD
+http://unlockyourtv.com:8000/billy/billy/567
+#EXTINF:0,WE TV
+http://unlockyourtv.com:8000/billy/billy/1028
+#EXTINF:0,WGN America HD
+http://unlockyourtv.com:8000/billy/billy/568
+#EXTINF:0,PPV: (Live Events Only)
+http://unlockyourtv.com:8000/billy/billy/2220
+#EXTINF:0,UFC Fight Pass 2
+http://unlockyourtv.com:8000/billy/billy/2221
+#EXTINF:0,PPV: (Only During Events)
+http://unlockyourtv.com:8000/billy/billy/2222
+#EXTINF:0,UFC TV
+http://unlockyourtv.com:8000/billy/billy/2223
+#EXTINF:0,PPV: (Only During Live Events)
+http://unlockyourtv.com:8000/billy/billy/2224
+#EXTINF:0,Bein Sports
+http://unlockyourtv.com:8000/billy/billy/2144
+#EXTINF:0,BTN HD
+http://unlockyourtv.com:8000/billy/billy/579
+#EXTINF:0,CSN CALIFORNIA
+http://unlockyourtv.com:8000/billy/billy/1043
+#EXTINF:0,ESPN HD
+http://unlockyourtv.com:8000/billy/billy/594
+#EXTINF:0,ESPN 2 HD
+http://unlockyourtv.com:8000/billy/billy/597
+#EXTINF:0,Fox Sports 1
+http://unlockyourtv.com:8000/billy/billy/893
+#EXTINF:0,Fox Sports 2
+http://unlockyourtv.com:8000/billy/billy/894
+#EXTINF:0,FOX Collage Sports Atlantic
+http://unlockyourtv.com:8000/billy/billy/1007
+#EXTINF:0,FOX Collage Sports Central
+http://unlockyourtv.com:8000/billy/billy/1008
+#EXTINF:0,FOX Collage Sports Pacific
+http://unlockyourtv.com:8000/billy/billy/1009
+#EXTINF:0,FOX Sports Detroit
+http://unlockyourtv.com:8000/billy/billy/1012
+#EXTINF:0,FOX Sports Midwest
+http://unlockyourtv.com:8000/billy/billy/1021
+#EXTINF:0,FOX Sports North
+http://unlockyourtv.com:8000/billy/billy/1023
+#EXTINF:0,FOX Sports North Plus
+http://unlockyourtv.com:8000/billy/billy/1024
+#EXTINF:0,PPV: (Live Events Only)
+http://unlockyourtv.com:8000/billy/billy/2220
+#EXTINF:0,UFC Fight Pass 2
+http://unlockyourtv.com:8000/billy/billy/2221
+#EXTINF:0,PPV: (Only During Events)
+http://unlockyourtv.com:8000/billy/billy/2222
+#EXTINF:0,UFC TV
+http://unlockyourtv.com:8000/billy/billy/2223
+#EXTINF:0,PPV: (Only During Live Events)
+http://unlockyourtv.com:8000/billy/billy/2224
+#EXTINF:0,Bein Sports
+http://unlockyourtv.com:8000/billy/billy/2144
+#EXTINF:0,BTN HD
+http://unlockyourtv.com:8000/billy/billy/579
+#EXTINF:0,CSN CALIFORNIA
+http://unlockyourtv.com:8000/billy/billy/1043
+#EXTINF:0,ESPN HD
+http://unlockyourtv.com:8000/billy/billy/594
+#EXTINF:0,ESPN 2 HD
+http://unlockyourtv.com:8000/billy/billy/597
+#EXTINF:0,FOX Collage Sports Atlantic
+http://unlockyourtv.com:8000/billy/billy/1007
+#EXTINF:0,FOX Sports North Plus
+http://unlockyourtv.com:8000/billy/billy/1024
+#EXTINF:0,FOX Sports Ohio
+http://unlockyourtv.com:8000/billy/billy/1025
+#EXTINF:0,Fox Sports San Diego
+http://unlockyourtv.com:8000/billy/billy/1015
+#EXTINF:0,FOX Sports SouthWest
+http://unlockyourtv.com:8000/billy/billy/1016
+#EXTINF:0,FOX Sports SUN
+http://unlockyourtv.com:8000/billy/billy/1018
+#EXTINF:0,FOX Sports West
+http://unlockyourtv.com:8000/billy/billy/1019
+#EXTINF:0,Fox Soccer Plus
+http://unlockyourtv.com:8000/billy/billy/1223
+#EXTINF:0,LongHorn Netwrok
+http://unlockyourtv.com:8000/billy/billy/2166
+#EXTINF:0,MAV TV
+http://unlockyourtv.com:8000/billy/billy/1067
+#EXTINF:0,NHL HD 1
+http://unlockyourtv.com:8000/billy/billy/509
+#EXTINF:0,NHL HD 2
+http://unlockyourtv.com:8000/billy/billy/510
+#EXTINF:0,NHL HD 3
+http://unlockyourtv.com:8000/billy/billy/511
+#EXTINF:0,NHL HD 4
+http://unlockyourtv.com:8000/billy/billy/512
+#EXTINF:0,NHL HD 5
+http://unlockyourtv.com:8000/billy/billy/513
+#EXTINF:0,NHL HD 6
+http://unlockyourtv.com:8000/billy/billy/514
+#EXTINF:0,NHL HD 7
+http://unlockyourtv.com:8000/billy/billy/515
+#EXTINF:0,NHL HD 8
+http://unlockyourtv.com:8000/billy/billy/516
+#EXTINF:0,NHL HD 9
+http://unlockyourtv.com:8000/billy/billy/517
+#EXTINF:0,NHL HD 10
+http://unlockyourtv.com:8000/billy/billy/518
+#EXTINF:0,NHL HD 11
+http://unlockyourtv.com:8000/billy/billy/519
+#EXTINF:0,NHL HD 12
+http://unlockyourtv.com:8000/billy/billy/520
+#EXTINF:0,NHL HD 13
+http://unlockyourtv.com:8000/billy/billy/521
+#EXTINF:0,NBA - Atlanta Hawks
+http://unlockyourtv.com:8000/billy/billy/2477
+#EXTINF:0,NBA - Boston Celtics
+http://unlockyourtv.com:8000/billy/billy/2485
+#EXTINF:0,NBA - Brooklyn Nets
+http://unlockyourtv.com:8000/billy/billy/2478
+#EXTINF:0,NBA - Charlotte Hornets
+http://unlockyourtv.com:8000/billy/billy/2486
+#EXTINF:0,NBA - Chicago Bulls
+http://unlockyourtv.com:8000/billy/billy/2487
+#EXTINF:0,NBA - Cleveland Cavaliers
+http://unlockyourtv.com:8000/billy/billy/2479
+#EXTINF:0,NBA - Dallas Mavericks
+http://unlockyourtv.com:8000/billy/billy/2488
+#EXTINF:0,NBA - Denver Nuggets
+http://unlockyourtv.com:8000/billy/billy/2480
+#EXTINF:0,NBA - Detroit Pistons
+http://unlockyourtv.com:8000/billy/billy/2489
+#EXTINF:0,NBA - Golden State Warriors
+http://unlockyourtv.com:8000/billy/billy/2490
+#EXTINF:0,NBA - Houston Rockets
+http://unlockyourtv.com:8000/billy/billy/2491
+#EXTINF:0,NBA - Indiana Pacers
+http://unlockyourtv.com:8000/billy/billy/2492
+#EXTINF:0,NBA - LA Clippers
+http://unlockyourtv.com:8000/billy/billy/2493
+#EXTINF:0,NBA - LA Lakers
+http://unlockyourtv.com:8000/billy/billy/2494
+#EXTINF:0,NBA - Memphis Grizzlies
+http://unlockyourtv.com:8000/billy/billy/2495
+#EXTINF:0,NBA - Miami Heat
+http://unlockyourtv.com:8000/billy/billy/2481
+#EXTINF:0,NBA - Milwaukee Bucks
+http://unlockyourtv.com:8000/billy/billy/2482
+#EXTINF:0,NBA - Minnesota Timberwolves
+http://unlockyourtv.com:8000/billy/billy/2483
+#EXTINF:0,NBA - New Orleans Pelicans
+http://unlockyourtv.com:8000/billy/billy/2496
+#EXTINF:0,NBA - New York Knicks
+http://unlockyourtv.com:8000/billy/billy/2497
+#EXTINF:0,NBA - Oklahoma City Thunder
+http://unlockyourtv.com:8000/billy/billy/2498
+#EXTINF:0,NBA - Orlando Magic
+http://unlockyourtv.com:8000/billy/billy/2499
+#EXTINF:0,NBA - Philadelphia 76ers
+http://unlockyourtv.com:8000/billy/billy/2500
+#EXTINF:0,NBA - Phoenix Suns
+http://unlockyourtv.com:8000/billy/billy/2501
+#EXTINF:0,NBA - Portland Trail Blazers
+http://unlockyourtv.com:8000/billy/billy/2502
+#EXTINF:0,NBA - Sacramento Kings
+http://unlockyourtv.com:8000/billy/billy/2503
+#EXTINF:0,NBA - San Antonio Spurs
+http://unlockyourtv.com:8000/billy/billy/2504
+#EXTINF:0,NBA - Toronto Raptors
+http://unlockyourtv.com:8000/billy/billy/2505
+#EXTINF:0,NBA - Utah Jazz
+http://unlockyourtv.com:8000/billy/billy/2506
+#EXTINF:0,NBA - Washington Wizards
+http://unlockyourtv.com:8000/billy/billy/2484
+#EXTINF:0,MLB Network
+http://unlockyourtv.com:8000/billy/billy/327
+#EXTINF:0,NBA TV
+http://unlockyourtv.com:8000/billy/billy/1426
+#EXTINF:0,NBC Golf
+http://unlockyourtv.com:8000/billy/billy/111
+#EXTINF:0,NBC Sports Network
+http://unlockyourtv.com:8000/billy/billy/986
+#EXTINF:0,NESN
+http://unlockyourtv.com:8000/billy/billy/1108
+#EXTINF:0,NFL Network
+http://unlockyourtv.com:8000/billy/billy/1082
+#EXTINF:0,Outdoor Channel HD
+http://unlockyourtv.com:8000/billy/billy/1609
+#EXTINF:0,Pac 12 Bay Area
+http://unlockyourtv.com:8000/billy/billy/459
+#EXTINF:0,Pac 12 Los Angeles
+http://unlockyourtv.com:8000/billy/billy/460
+#EXTINF:0,Pac 12 Oregon
+http://unlockyourtv.com:8000/billy/billy/463
+#EXTINF:0,PAC 12 Washington
+http://unlockyourtv.com:8000/billy/billy/2263
+#EXTINF:0,Tennis Channel
+http://unlockyourtv.com:8000/billy/billy/1105
+#EXTINF:0,TSN 1 HD
+http://unlockyourtv.com:8000/billy/billy/119
+#EXTINF:0,TSN 2 HD
+http://unlockyourtv.com:8000/billy/billy/1083
+#EXTINF:0,TSN 3 HD
+http://unlockyourtv.com:8000/billy/billy/1084
+#EXTINF:0,TSN 4 HD
+http://unlockyourtv.com:8000/billy/billy/1085
+#EXTINF:0,TSN 5 HD
+http://unlockyourtv.com:8000/billy/billy/115
+#EXTINF:0,SEC NETWORK
+http://unlockyourtv.com:8000/billy/billy/601
+#EXTINF:0,Sports Net 360 HD
+http://unlockyourtv.com:8000/billy/billy/1094
+#EXTINF:0,Sports Net Pacific
+http://unlockyourtv.com:8000/billy/billy/1097
+#EXTINF:0,WWE Network HD
+http://unlockyourtv.com:8000/billy/billy/602
+#EXTINF:0,YES NETWORK
+http://unlockyourtv.com:8000/billy/billy/1166
+#EXTINF:0,NBA 750
+http://unlockyourtv.com:8000/billy/billy/522
+#EXTINF:0,NBA 751
+http://unlockyourtv.com:8000/billy/billy/523
+#EXTINF:0,NBA 752
+http://unlockyourtv.com:8000/billy/billy/524
+#EXTINF:0,NBA 753
+http://unlockyourtv.com:8000/billy/billy/525
+#EXTINF:0,NBA 754
+http://unlockyourtv.com:8000/billy/billy/526
+#EXTINF:0,NBA 755
+http://unlockyourtv.com:8000/billy/billy/527
+#EXTINF:0,NBA 756
+http://unlockyourtv.com:8000/billy/billy/528
+#EXTINF:0,NBA 757
+http://unlockyourtv.com:8000/billy/billy/529
+#EXTINF:0,NBA 758
+http://unlockyourtv.com:8000/billy/billy/530
+#EXTINF:0,NBA 759
+http://unlockyourtv.com:8000/billy/billy/531
+#EXTINF:0,NBA 760
+http://unlockyourtv.com:8000/billy/billy/532
+#EXTINF:0,NBA 761
+http://unlockyourtv.com:8000/billy/billy/533
+#EXTINF:0,NBA 762
+http://unlockyourtv.com:8000/billy/billy/2409
+#EXTINF:0,NBA 764
+http://unlockyourtv.com:8000/billy/billy/2411
+#EXTINF:0,NBA 765
+http://unlockyourtv.com:8000/billy/billy/2412
+#EXTINF:0,NBA 763
+http://unlockyourtv.com:8000/billy/billy/2410
+#EXTINF:0,NFL 1
+http://unlockyourtv.com:8000/billy/billy/2162
+#EXTINF:0,NFL 2
+http://unlockyourtv.com:8000/billy/billy/2163
+#EXTINF:0,NFL 3
+http://unlockyourtv.com:8000/billy/billy/2164
+#EXTINF:0,NFL 4
+http://unlockyourtv.com:8000/billy/billy/2165
+#EXTINF:0,NFL 5
+http://unlockyourtv.com:8000/billy/billy/2167
+#EXTINF:0,NFL 6
+http://unlockyourtv.com:8000/billy/billy/2168
+#EXTINF:0,NFL 7
+http://unlockyourtv.com:8000/billy/billy/2169
+#EXTINF:0,NFL 8
+http://unlockyourtv.com:8000/billy/billy/2170
+#EXTINF:0,NFL 9
+http://unlockyourtv.com:8000/billy/billy/2171
+#EXTINF:0,NFL 10 Broncos Vs Chargers
+http://unlockyourtv.com:8000/billy/billy/2172
+#EXTINF:0,NFL 11 Eagles at Saints
+http://unlockyourtv.com:8000/billy/billy/2173
+#EXTINF:0,NFL 12 Vikings at Bears
+http://unlockyourtv.com:8000/billy/billy/2174
+#EXTINF:0,NFL 13 Chiefs at Rams
+http://unlockyourtv.com:8000/billy/billy/2175
+#EXTINF:0,NFL 14 Giaints at 49ers
+http://unlockyourtv.com:8000/billy/billy/2176
+#EXTINF:0,NFL Monday Night Football
+http://unlockyourtv.com:8000/billy/billy/2177
+#EXTINF:0,NFL RedZone 2
+http://unlockyourtv.com:8000/billy/billy/2260
+#EXTINF:0,MLB 721/722
+http://unlockyourtv.com:8000/billy/billy/2248
+#EXTINF:0,MLB 723/724
+http://unlockyourtv.com:8000/billy/billy/2249
+#EXTINF:0,MLB 725
+http://unlockyourtv.com:8000/billy/billy/2250
+#EXTINF:0,MLB 727
+http://unlockyourtv.com:8000/billy/billy/2251
+#EXTINF:0,MLB 729
+http://unlockyourtv.com:8000/billy/billy/2252
+#EXTINF:0,MLB 731
+http://unlockyourtv.com:8000/billy/billy/2253
+#EXTINF:0,MLB 733
+http://unlockyourtv.com:8000/billy/billy/2254
+#EXTINF:0,MLB 735
+http://unlockyourtv.com:8000/billy/billy/2255
+#EXTINF:0,MLB 737
+http://unlockyourtv.com:8000/billy/billy/2256
+#EXTINF:0,MLB 739
+http://unlockyourtv.com:8000/billy/billy/2257
+#EXTINF:0,MLB 743
+http://unlockyourtv.com:8000/billy/billy/2258
+#EXTINF:0,NFL - Arizona-Cardinals
+http://unlockyourtv.com:8000/billy/billy/2346
+#EXTINF:0,NFL - Atlanta-Falcons
+http://unlockyourtv.com:8000/billy/billy/2347
+#EXTINF:0,NFL - Baltimore-Ravens
+http://unlockyourtv.com:8000/billy/billy/2348
+#EXTINF:0,NFL - Buffalo-Bills
+http://unlockyourtv.com:8000/billy/billy/2349
+#EXTINF:0,NFL - Carolina-Panthers
+http://unlockyourtv.com:8000/billy/billy/2350
+#EXTINF:0,NFL - Chicago-Bears
+http://unlockyourtv.com:8000/billy/billy/2351
+#EXTINF:0,NFL - Cincinnati-Bengals
+http://unlockyourtv.com:8000/billy/billy/2352
+#EXTINF:0,NFL - Cleveland-Browns
+http://unlockyourtv.com:8000/billy/billy/2353
+#EXTINF:0,NFL - Dallas-Cowboys
+http://unlockyourtv.com:8000/billy/billy/2354
+#EXTINF:0,NFL - Denver-Broncos
+http://unlockyourtv.com:8000/billy/billy/2355
+#EXTINF:0,NFL - Detroit-Lions
+http://unlockyourtv.com:8000/billy/billy/2356
+#EXTINF:0,NFL - Green-Bay-Packers
+http://unlockyourtv.com:8000/billy/billy/2357
+#EXTINF:0,NFL - Houston-Texans
+http://unlockyourtv.com:8000/billy/billy/2358
+#EXTINF:0,NFL - Indianapolis-Colts
+http://unlockyourtv.com:8000/billy/billy/2359
+#EXTINF:0,NFL - Jacksonville-Jaguars
+http://unlockyourtv.com:8000/billy/billy/2360
+#EXTINF:0,NFL - Kansas-City-Chiefs
+http://unlockyourtv.com:8000/billy/billy/2361
+#EXTINF:0,NFL - Los-Angeles-Chargers
+http://unlockyourtv.com:8000/billy/billy/2362
+#EXTINF:0,NFL - Los-Angeles-Ram
+http://unlockyourtv.com:8000/billy/billy/2363
+#EXTINF:0,NFL - Miami-Dolphins
+http://unlockyourtv.com:8000/billy/billy/2364
+#EXTINF:0,NFL - Minnesota-Vikings
+http://unlockyourtv.com:8000/billy/billy/2365
+#EXTINF:0,NFL - New-England-Patriots
+http://unlockyourtv.com:8000/billy/billy/2366
+#EXTINF:0,NFL - New-Orleans-Saints
+http://unlockyourtv.com:8000/billy/billy/2367
+#EXTINF:0,NFL - New-York-Giants
+http://unlockyourtv.com:8000/billy/billy/2368
+#EXTINF:0,NFL - New-York-Jets
+http://unlockyourtv.com:8000/billy/billy/2369
+#EXTINF:0,NFL - Oakland-Raiders
+http://unlockyourtv.com:8000/billy/billy/2370
+#EXTINF:0,NFL - Philadelphia-Eagles
+http://unlockyourtv.com:8000/billy/billy/2371
+#EXTINF:0,NFL - Pittsburgh-Steelers
+http://unlockyourtv.com:8000/billy/billy/2372
+#EXTINF:0,NFL - San-Francisco-49ers
+http://unlockyourtv.com:8000/billy/billy/2373
+#EXTINF:0,NFL - Seattle-Seahawks
+http://unlockyourtv.com:8000/billy/billy/2374
+#EXTINF:0,NFL - Tampa-Bay-Buccaneers
+http://unlockyourtv.com:8000/billy/billy/2375
+#EXTINF:0,NFL - Tennessee-Titans
+http://unlockyourtv.com:8000/billy/billy/2376
+#EXTINF:0,NFL - Washington-Redskins
+http://unlockyourtv.com:8000/billy/billy/2377
+#EXTINF:0,NHL: ANAHEIM DUCKS
+http://unlockyourtv.com:8000/billy/billy/2378
+#EXTINF:0,NHL: ARIZONA COYOTES
+http://unlockyourtv.com:8000/billy/billy/2379
+#EXTINF:0,NHL: BOSTON BRUINS
+http://unlockyourtv.com:8000/billy/billy/2380
+#EXTINF:0,NHL: BUFFALO SABRES
+http://unlockyourtv.com:8000/billy/billy/2381
+#EXTINF:0,NHL: CALGARY FLAMES
+http://unlockyourtv.com:8000/billy/billy/2382
+#EXTINF:0,NHL: CAROLINA HURRICANES
+http://unlockyourtv.com:8000/billy/billy/2383
+#EXTINF:0,NHL: CHICAGO BLACKHAWKS
+http://unlockyourtv.com:8000/billy/billy/2384
+#EXTINF:0,NHL: COLORADO AVALANCHES
+http://unlockyourtv.com:8000/billy/billy/2385
+#EXTINF:0,NHL: COLUMBUS BLUE JACKETS
+http://unlockyourtv.com:8000/billy/billy/2386
+#EXTINF:0,NHL: DALLAS STARS
+http://unlockyourtv.com:8000/billy/billy/2387
+#EXTINF:0,NHL: DETROIT REDWINGS
+http://unlockyourtv.com:8000/billy/billy/2388
+#EXTINF:0,NHL: EDMONTON OILERS
+http://unlockyourtv.com:8000/billy/billy/2389
+#EXTINF:0,NHL: FLORIDA PANTHERS
+http://unlockyourtv.com:8000/billy/billy/2390
+#EXTINF:0,NHL: LOS ANGELES KINGS
+http://unlockyourtv.com:8000/billy/billy/2391
+#EXTINF:0,NHL: MINNESOTA WILDS
+http://unlockyourtv.com:8000/billy/billy/2392
+#EXTINF:0,NHL: MONTREAL CANADIENS
+http://unlockyourtv.com:8000/billy/billy/2393
+#EXTINF:0,NHL: NASHVILLE PREDATORS
+http://unlockyourtv.com:8000/billy/billy/2394
+#EXTINF:0,NHL: NEW JERSEY DEVILS
+http://unlockyourtv.com:8000/billy/billy/2395
+#EXTINF:0,NHL: NEW YORK ISLANDERS
+http://unlockyourtv.com:8000/billy/billy/2396
+#EXTINF:0,NHL: NEW YORK RANGERS
+http://unlockyourtv.com:8000/billy/billy/2397
+#EXTINF:0,NHL: OTTAWA SENATORS
+http://unlockyourtv.com:8000/billy/billy/2398
+#EXTINF:0,NHL: PHILIDELPHIA FLYERS
+http://unlockyourtv.com:8000/billy/billy/2399
+#EXTINF:0,NHL: PITTSBURGH PENGUINS
+http://unlockyourtv.com:8000/billy/billy/2400
+#EXTINF:0,NHL: SAN JOSE SHARKS
+http://unlockyourtv.com:8000/billy/billy/2401
+#EXTINF:0,NHL: ST LOUIS BLUES
+http://unlockyourtv.com:8000/billy/billy/2402
+#EXTINF:0,NHL: TAMPA BAY LIGHTNING
+http://unlockyourtv.com:8000/billy/billy/2403
+#EXTINF:0,NHL: TORONTO MAPLE LEAFS
+http://unlockyourtv.com:8000/billy/billy/2404
+#EXTINF:0,NHL: VANCOUVER CANUCKS
+http://unlockyourtv.com:8000/billy/billy/2405
+#EXTINF:0,NHL: VEGAS GOLDEN KNIGHTS
+http://unlockyourtv.com:8000/billy/billy/2406
+#EXTINF:0,NHL: WASHINGTON CAPITALS
+http://unlockyourtv.com:8000/billy/billy/2407
+#EXTINF:0,NHL: WINNEPEG JETS
+http://unlockyourtv.com:8000/billy/billy/2408
